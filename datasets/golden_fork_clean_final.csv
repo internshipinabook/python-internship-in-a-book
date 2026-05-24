@@ -1,0 +1,521 @@
+order_id,date,day_of_week,time_of_day,item_name,category,quantity,unit_price,total_price,payment_method,server,table_number,discount_applied,month,week,is_weekend,list_price,discount_amt,revenue_tier,day_short
+1001,2024-01-08,Monday,Evening,Fresh Juice,Drinks,3,700.0,2100.0,Cash,Chukwu,8,False,1,2,False,2100.0,0.0,Bronze,Mon
+1002,2024-01-08,Monday,Morning,Jollof Rice,Mains,3,1800.0,5400.0,Cash,Emeka,14,False,1,2,False,5400.0,0.0,Gold,Mon
+1003,2024-01-08,Monday,Evening,Beef Suya,Starters,2,1100.0,2200.0,Card,Amaka,1,False,1,2,False,2200.0,0.0,Bronze,Mon
+1004,2024-01-08,Monday,Evening,Chin Chin,Desserts,1,500.0,450.0,Cash,Emeka,3,True,1,2,False,500.0,50.0,Standard,Mon
+1005,2024-01-08,Monday,Evening,Zobo,Drinks,5,400.0,1800.0,Card,Chukwu,5,True,1,2,False,2000.0,200.0,Bronze,Mon
+1006,2024-01-08,Monday,Evening,Beef Suya,Starters,1,1100.0,990.0,Card,Blessing,7,True,1,2,False,1100.0,110.0,Standard,Mon
+1007,2024-01-08,Monday,Evening,Puff Puff,Desserts,5,450.0,2250.0,Cash,Blessing,11,False,1,2,False,2250.0,0.0,Bronze,Mon
+1008,2024-01-08,Monday,Evening,Beef Suya,Starters,2,1100.0,2200.0,Transfer,Chukwu,0,False,1,2,False,2200.0,0.0,Bronze,Mon
+1009,2024-01-08,Monday,Evening,Puff Puff,Desserts,1,450.0,450.0,Cash,Amaka,0,False,1,2,False,450.0,0.0,Standard,Mon
+1010,2024-01-08,Monday,Morning,Jollof Rice,Mains,4,1800.0,7200.0,Transfer,Amaka,6,False,1,2,False,7200.0,0.0,Gold,Mon
+1011,2024-01-09,Tuesday,Afternoon,Egusi Soup,Mains,3,1500.0,4500.0,Cash,Chukwu,14,False,1,2,False,4500.0,0.0,Silver,Tue
+1012,2024-01-09,Tuesday,Morning,Pounded Yam,Mains,2,2200.0,4400.0,Cash,Amaka,7,False,1,2,False,4400.0,0.0,Silver,Tue
+1013,2024-01-09,Tuesday,Afternoon,Beef Suya,Starters,5,1100.0,5500.0,Cash,Emeka,5,False,1,2,False,5500.0,0.0,Gold,Tue
+1014,2024-01-09,Tuesday,Afternoon,Beef Suya,Starters,5,1100.0,5500.0,Cash,Emeka,11,False,1,2,False,5500.0,0.0,Gold,Tue
+1015,2024-01-09,Tuesday,Evening,Pepper Soup,Starters,2,1200.0,2400.0,Card,Amaka,15,False,1,2,False,2400.0,0.0,Bronze,Tue
+1016,2024-01-09,Tuesday,Afternoon,Spring Rolls,Starters,2,900.0,1800.0,Card,Blessing,8,False,1,2,False,1800.0,0.0,Bronze,Tue
+1017,2024-01-09,Tuesday,Afternoon,Fresh Juice,Drinks,2,700.0,1400.0,Cash,Chukwu,12,False,1,2,False,1400.0,0.0,Bronze,Tue
+1018,2024-01-09,Tuesday,Afternoon,Beef Suya,Starters,1,1100.0,1100.0,Card,Blessing,1,False,1,2,False,1100.0,0.0,Bronze,Tue
+1019,2024-01-09,Tuesday,Morning,Beef Suya,Starters,1,1100.0,1100.0,Cash,Chukwu,5,False,1,2,False,1100.0,0.0,Bronze,Tue
+1020,2024-01-09,Tuesday,Evening,Pounded Yam,Mains,1,2200.0,2200.0,Card,Amaka,0,False,1,2,False,2200.0,0.0,Bronze,Tue
+1021,2024-01-09,Tuesday,Evening,Jollof Rice,Mains,2,1800.0,3600.0,Cash,Chukwu,6,False,1,2,False,3600.0,0.0,Silver,Tue
+1022,2024-01-09,Tuesday,Afternoon,Jollof Rice,Mains,3,1800.0,4860.0,Cash,Amaka,0,True,1,2,False,5400.0,540.0,Silver,Tue
+1023,2024-01-10,Wednesday,Evening,Beef Suya,Starters,3,1100.0,3300.0,Transfer,Amaka,5,False,1,2,False,3300.0,0.0,Silver,Wed
+1024,2024-01-10,Wednesday,Morning,Puff Puff,Desserts,1,450.0,450.0,Cash,Amaka,13,False,1,2,False,450.0,0.0,Standard,Wed
+1025,2024-01-10,Wednesday,Evening,Jollof Rice,Mains,2,1800.0,3600.0,Cash,Emeka,0,False,1,2,False,3600.0,0.0,Silver,Wed
+1026,2024-01-10,Wednesday,Afternoon,Chapman,Drinks,3,600.0,1800.0,Transfer,Chukwu,14,False,1,2,False,1800.0,0.0,Bronze,Wed
+1027,2024-01-10,Wednesday,Afternoon,Chin Chin,Desserts,2,500.0,1000.0,Cash,Amaka,2,False,1,2,False,1000.0,0.0,Bronze,Wed
+1028,2024-01-10,Wednesday,Morning,Zobo,Drinks,1,400.0,400.0,Cash,Chukwu,15,False,1,2,False,400.0,0.0,Standard,Wed
+1029,2024-01-10,Wednesday,Afternoon,Pounded Yam,Mains,1,2200.0,2200.0,Card,Emeka,10,False,1,2,False,2200.0,0.0,Bronze,Wed
+1030,2024-01-11,Thursday,Afternoon,Spring Rolls,Starters,3,900.0,2430.0,Transfer,Amaka,8,True,1,2,False,2700.0,270.0,Bronze,Thu
+1031,2024-01-11,Thursday,Afternoon,Chapman,Drinks,2,600.0,1200.0,Card,Emeka,15,False,1,2,False,1200.0,0.0,Bronze,Thu
+1032,2024-01-11,Thursday,Afternoon,Zobo,Drinks,2,400.0,800.0,Card,Emeka,0,False,1,2,False,800.0,0.0,Standard,Thu
+1033,2024-01-11,Thursday,Afternoon,Egusi Soup,Mains,4,1500.0,5400.0,Transfer,Amaka,0,True,1,2,False,6000.0,600.0,Gold,Thu
+1034,2024-01-11,Thursday,Afternoon,Spring Rolls,Starters,1,900.0,900.0,Cash,Chukwu,0,False,1,2,False,900.0,0.0,Standard,Thu
+1035,2024-01-11,Thursday,Morning,Puff Puff,Desserts,4,450.0,1800.0,Cash,Blessing,0,False,1,2,False,1800.0,0.0,Bronze,Thu
+1036,2024-01-12,Friday,Afternoon,Chin Chin,Desserts,2,500.0,1000.0,Cash,Emeka,0,False,1,2,False,1000.0,0.0,Bronze,Fri
+1037,2024-01-12,Friday,Afternoon,Jollof Rice,Mains,1,1800.0,1800.0,Transfer,Blessing,6,False,1,2,False,1800.0,0.0,Bronze,Fri
+1038,2024-01-12,Friday,Afternoon,Beef Suya,Starters,1,1100.0,1100.0,Card,Chukwu,0,False,1,2,False,1100.0,0.0,Bronze,Fri
+1039,2024-01-13,Saturday,Afternoon,Egusi Soup,Mains,4,1500.0,6000.0,Card,Amaka,6,False,1,2,True,6000.0,0.0,Gold,Sat
+1040,2024-01-13,Saturday,Morning,Chin Chin,Desserts,3,500.0,1500.0,Card,Amaka,10,False,1,2,True,1500.0,0.0,Bronze,Sat
+1041,2024-01-13,Saturday,Afternoon,Chin Chin,Desserts,4,500.0,1800.0,Card,Blessing,2,True,1,2,True,2000.0,200.0,Bronze,Sat
+1042,2024-01-13,Saturday,Evening,Chapman,Drinks,2,600.0,1200.0,Cash,Blessing,5,False,1,2,True,1200.0,0.0,Bronze,Sat
+1043,2024-01-14,Sunday,Morning,Puff Puff,Desserts,2,450.0,810.0,Card,Chukwu,1,True,1,2,True,900.0,90.0,Standard,Sun
+1044,2024-01-14,Sunday,Morning,Spring Rolls,Starters,1,900.0,900.0,Cash,Blessing,0,False,1,2,True,900.0,0.0,Standard,Sun
+1045,2024-01-14,Sunday,Morning,Fresh Juice,Drinks,4,700.0,2520.0,Card,Emeka,8,True,1,2,True,2800.0,280.0,Silver,Sun
+1046,2024-01-14,Sunday,Evening,Pounded Yam,Mains,2,2200.0,4400.0,Cash,Chukwu,8,False,1,2,True,4400.0,0.0,Silver,Sun
+1047,2024-01-14,Sunday,Afternoon,Chin Chin,Desserts,3,500.0,1500.0,Card,Amaka,6,False,1,2,True,1500.0,0.0,Bronze,Sun
+1048,2024-01-14,Sunday,Afternoon,Pepper Soup,Starters,2,1200.0,2400.0,Cash,Blessing,14,False,1,2,True,2400.0,0.0,Bronze,Sun
+1049,2024-01-15,Monday,Evening,Spring Rolls,Starters,2,900.0,1800.0,Cash,Blessing,0,False,1,3,False,1800.0,0.0,Bronze,Mon
+1050,2024-01-15,Monday,Afternoon,Puff Puff,Desserts,2,450.0,900.0,Cash,Emeka,1,False,1,3,False,900.0,0.0,Standard,Mon
+1051,2024-01-15,Monday,Afternoon,Chin Chin,Desserts,3,500.0,1500.0,Card,Blessing,15,False,1,3,False,1500.0,0.0,Bronze,Mon
+1052,2024-01-15,Monday,Morning,Beef Suya,Starters,5,1100.0,4950.0,Card,Amaka,3,True,1,3,False,5500.0,550.0,Silver,Mon
+1053,2024-01-15,Monday,Morning,Fresh Juice,Drinks,3,700.0,2100.0,Card,Blessing,14,False,1,3,False,2100.0,0.0,Bronze,Mon
+1054,2024-01-15,Monday,Evening,Egusi Soup,Mains,1,1500.0,1500.0,Card,Chukwu,9,False,1,3,False,1500.0,0.0,Bronze,Mon
+1055,2024-01-15,Monday,Afternoon,Chin Chin,Desserts,2,500.0,1000.0,Card,Emeka,6,False,1,3,False,1000.0,0.0,Bronze,Mon
+1056,2024-01-15,Monday,Evening,Jollof Rice,Mains,1,1800.0,1800.0,Cash,Chukwu,0,False,1,3,False,1800.0,0.0,Bronze,Mon
+1057,2024-01-16,Tuesday,Evening,Zobo,Drinks,1,400.0,400.0,Card,Emeka,4,False,1,3,False,400.0,0.0,Standard,Tue
+1058,2024-01-16,Tuesday,Evening,Jollof Rice,Mains,2,1800.0,3600.0,Card,Chukwu,13,False,1,3,False,3600.0,0.0,Silver,Tue
+1059,2024-01-16,Tuesday,Morning,Zobo,Drinks,1,400.0,360.0,Card,Amaka,1,True,1,3,False,400.0,40.0,Standard,Tue
+1060,2024-01-16,Tuesday,Evening,Pepper Soup,Starters,2,1200.0,2400.0,Card,Emeka,0,False,1,3,False,2400.0,0.0,Bronze,Tue
+1061,2024-01-16,Tuesday,Morning,Beef Suya,Starters,3,1100.0,3300.0,Card,Emeka,11,False,1,3,False,3300.0,0.0,Silver,Tue
+1062,2024-01-16,Tuesday,Evening,Pepper Soup,Starters,1,1200.0,1200.0,Card,Emeka,10,False,1,3,False,1200.0,0.0,Bronze,Tue
+1063,2024-01-16,Tuesday,Morning,Beef Suya,Starters,4,1100.0,4400.0,Cash,Amaka,0,False,1,3,False,4400.0,0.0,Silver,Tue
+1064,2024-01-17,Wednesday,Evening,Beef Suya,Starters,1,1100.0,1100.0,Card,Amaka,10,False,1,3,False,1100.0,0.0,Bronze,Wed
+1065,2024-01-17,Wednesday,Morning,Puff Puff,Desserts,1,450.0,450.0,Cash,Amaka,7,False,1,3,False,450.0,0.0,Standard,Wed
+1066,2024-01-18,Thursday,Evening,Spring Rolls,Starters,5,900.0,4500.0,Cash,Amaka,6,False,1,3,False,4500.0,0.0,Silver,Thu
+1067,2024-01-18,Thursday,Afternoon,Fresh Juice,Drinks,2,700.0,1400.0,Card,Chukwu,5,False,1,3,False,1400.0,0.0,Bronze,Thu
+1068,2024-01-18,Thursday,Afternoon,Egusi Soup,Mains,1,1500.0,1500.0,Transfer,Chukwu,11,False,1,3,False,1500.0,0.0,Bronze,Thu
+1069,2024-01-19,Friday,Morning,Jollof Rice,Mains,2,1800.0,3600.0,Transfer,Chukwu,0,False,1,3,False,3600.0,0.0,Silver,Fri
+1070,2024-01-19,Friday,Afternoon,Chapman,Drinks,1,600.0,600.0,Card,Blessing,12,False,1,3,False,600.0,0.0,Standard,Fri
+1071,2024-01-19,Friday,Evening,Jollof Rice,Mains,1,1800.0,1800.0,Cash,Chukwu,15,False,1,3,False,1800.0,0.0,Bronze,Fri
+1072,2024-01-19,Friday,Afternoon,Jollof Rice,Mains,1,1800.0,1800.0,Cash,Blessing,3,False,1,3,False,1800.0,0.0,Bronze,Fri
+1073,2024-01-19,Friday,Afternoon,Jollof Rice,Mains,1,1800.0,1800.0,Card,Chukwu,3,False,1,3,False,1800.0,0.0,Bronze,Fri
+1074,2024-01-19,Friday,Afternoon,Pounded Yam,Mains,2,2200.0,4400.0,Card,Blessing,0,False,1,3,False,4400.0,0.0,Silver,Fri
+1075,2024-01-19,Friday,Afternoon,Zobo,Drinks,4,400.0,1440.0,Cash,Chukwu,1,True,1,3,False,1600.0,160.0,Bronze,Fri
+1076,2024-01-20,Saturday,Evening,Beef Suya,Starters,3,1100.0,3300.0,Cash,Amaka,8,False,1,3,True,3300.0,0.0,Silver,Sat
+1077,2024-01-20,Saturday,Evening,Fresh Juice,Drinks,1,700.0,630.0,Cash,Amaka,8,True,1,3,True,700.0,70.0,Standard,Sat
+1078,2024-01-20,Saturday,Evening,Fresh Juice,Drinks,3,700.0,2100.0,Transfer,Emeka,6,False,1,3,True,2100.0,0.0,Bronze,Sat
+1079,2024-01-20,Saturday,Morning,Zobo,Drinks,4,400.0,1600.0,Cash,Blessing,13,False,1,3,True,1600.0,0.0,Bronze,Sat
+1080,2024-01-21,Sunday,Evening,Beef Suya,Starters,3,1100.0,3300.0,Card,Blessing,2,False,1,3,True,3300.0,0.0,Silver,Sun
+1081,2024-01-21,Sunday,Evening,Zobo,Drinks,1,400.0,400.0,Cash,Chukwu,5,False,1,3,True,400.0,0.0,Standard,Sun
+1082,2024-01-21,Sunday,Evening,Pepper Soup,Starters,5,1200.0,6000.0,Cash,Chukwu,14,False,1,3,True,6000.0,0.0,Gold,Sun
+1083,2024-01-21,Sunday,Afternoon,Jollof Rice,Mains,2,1800.0,3600.0,Card,Chukwu,7,False,1,3,True,3600.0,0.0,Silver,Sun
+1084,2024-01-21,Sunday,Evening,Chapman,Drinks,3,600.0,1620.0,Card,Amaka,5,True,1,3,True,1800.0,180.0,Bronze,Sun
+1085,2024-01-22,Monday,Evening,Pounded Yam,Mains,2,2200.0,4400.0,Card,Chukwu,9,False,1,4,False,4400.0,0.0,Silver,Mon
+1086,2024-01-22,Monday,Morning,Beef Suya,Starters,1,1100.0,1100.0,Cash,Amaka,11,False,1,4,False,1100.0,0.0,Bronze,Mon
+1087,2024-01-22,Monday,Afternoon,Beef Suya,Starters,2,1100.0,2200.0,Card,Amaka,12,False,1,4,False,2200.0,0.0,Bronze,Mon
+1088,2024-01-22,Monday,Evening,Pounded Yam,Mains,1,2200.0,2200.0,Cash,Emeka,13,False,1,4,False,2200.0,0.0,Bronze,Mon
+1089,2024-01-22,Monday,Evening,Fresh Juice,Drinks,2,700.0,1400.0,Card,Emeka,2,False,1,4,False,1400.0,0.0,Bronze,Mon
+1090,2024-01-22,Monday,Evening,Fresh Juice,Drinks,4,700.0,2800.0,Cash,Emeka,3,False,1,4,False,2800.0,0.0,Silver,Mon
+1091,2024-01-22,Monday,Evening,Fried Plantain,Starters,3,800.0,2400.0,Cash,Amaka,5,False,1,4,False,2400.0,0.0,Bronze,Mon
+1092,2024-01-22,Monday,Afternoon,Fresh Juice,Drinks,3,700.0,2100.0,Card,Chukwu,3,False,1,4,False,2100.0,0.0,Bronze,Mon
+1093,2024-01-23,Tuesday,Evening,Spring Rolls,Starters,1,900.0,900.0,Cash,Emeka,12,False,1,4,False,900.0,0.0,Standard,Tue
+1094,2024-01-23,Tuesday,Evening,Jollof Rice,Mains,1,1800.0,1800.0,Cash,Blessing,0,False,1,4,False,1800.0,0.0,Bronze,Tue
+1095,2024-01-23,Tuesday,Evening,Egusi Soup,Mains,3,1500.0,4500.0,Card,Chukwu,8,False,1,4,False,4500.0,0.0,Silver,Tue
+1096,2024-01-23,Tuesday,Evening,Chin Chin,Desserts,2,500.0,1000.0,Cash,Chukwu,0,False,1,4,False,1000.0,0.0,Bronze,Tue
+1097,2024-01-23,Tuesday,Afternoon,Zobo,Drinks,5,400.0,2000.0,Card,Blessing,0,False,1,4,False,2000.0,0.0,Bronze,Tue
+1098,2024-01-23,Tuesday,Morning,Chin Chin,Desserts,1,500.0,450.0,Cash,Amaka,14,True,1,4,False,500.0,50.0,Standard,Tue
+1099,2024-01-23,Tuesday,Evening,Egusi Soup,Mains,1,1500.0,1500.0,Cash,Blessing,12,False,1,4,False,1500.0,0.0,Bronze,Tue
+1100,2024-01-23,Tuesday,Afternoon,Pounded Yam,Mains,4,2200.0,8800.0,Cash,Blessing,0,False,1,4,False,8800.0,0.0,Platinum,Tue
+1101,2024-01-24,Wednesday,Evening,Jollof Rice,Mains,2,1800.0,3600.0,Card,Amaka,10,False,1,4,False,3600.0,0.0,Silver,Wed
+1102,2024-01-24,Wednesday,Evening,Pounded Yam,Mains,1,2200.0,2200.0,Cash,Blessing,0,False,1,4,False,2200.0,0.0,Bronze,Wed
+1103,2024-01-24,Wednesday,Morning,Egusi Soup,Mains,1,1500.0,1500.0,Cash,Amaka,5,False,1,4,False,1500.0,0.0,Bronze,Wed
+1104,2024-01-24,Wednesday,Afternoon,Fresh Juice,Drinks,1,700.0,700.0,Cash,Blessing,5,False,1,4,False,700.0,0.0,Standard,Wed
+1105,2024-01-24,Wednesday,Afternoon,Jollof Rice,Mains,1,1800.0,1620.0,Cash,Emeka,5,True,1,4,False,1800.0,180.0,Bronze,Wed
+1106,2024-01-25,Thursday,Morning,Jollof Rice,Mains,4,1800.0,7200.0,Cash,Amaka,12,False,1,4,False,7200.0,0.0,Gold,Thu
+1107,2024-01-25,Thursday,Morning,Spring Rolls,Starters,3,900.0,2700.0,Cash,Emeka,8,False,1,4,False,2700.0,0.0,Silver,Thu
+1108,2024-01-25,Thursday,Evening,Pounded Yam,Mains,1,2200.0,2200.0,Cash,Emeka,6,False,1,4,False,2200.0,0.0,Bronze,Thu
+1109,2024-01-25,Thursday,Afternoon,Puff Puff,Desserts,1,450.0,450.0,Cash,Chukwu,6,False,1,4,False,450.0,0.0,Standard,Thu
+1110,2024-01-26,Friday,Evening,Chapman,Drinks,5,600.0,3000.0,Transfer,Chukwu,11,False,1,4,False,3000.0,0.0,Silver,Fri
+1111,2024-01-26,Friday,Evening,Pounded Yam,Mains,2,2200.0,4400.0,Transfer,Blessing,8,False,1,4,False,4400.0,0.0,Silver,Fri
+1112,2024-01-26,Friday,Afternoon,Chin Chin,Desserts,2,500.0,1000.0,Cash,Amaka,11,False,1,4,False,1000.0,0.0,Bronze,Fri
+1113,2024-01-26,Friday,Evening,Chin Chin,Desserts,1,500.0,500.0,Cash,Blessing,5,False,1,4,False,500.0,0.0,Standard,Fri
+1114,2024-01-26,Friday,Afternoon,Pounded Yam,Mains,2,2200.0,4400.0,Cash,Amaka,0,False,1,4,False,4400.0,0.0,Silver,Fri
+1115,2024-01-26,Friday,Evening,Spring Rolls,Starters,1,900.0,900.0,Cash,Amaka,0,False,1,4,False,900.0,0.0,Standard,Fri
+1116,2024-01-26,Friday,Afternoon,Egusi Soup,Mains,3,1500.0,4500.0,Card,Blessing,1,False,1,4,False,4500.0,0.0,Silver,Fri
+1117,2024-01-26,Friday,Morning,Egusi Soup,Mains,4,1500.0,6000.0,Cash,Emeka,11,False,1,4,False,6000.0,0.0,Gold,Fri
+1118,2024-01-27,Saturday,Evening,Spring Rolls,Starters,2,900.0,1800.0,Card,Blessing,13,False,1,4,True,1800.0,0.0,Bronze,Sat
+1119,2024-01-27,Saturday,Morning,Egusi Soup,Mains,4,1500.0,5400.0,Transfer,Amaka,15,True,1,4,True,6000.0,600.0,Gold,Sat
+1120,2024-01-27,Saturday,Afternoon,Pounded Yam,Mains,3,2200.0,6600.0,Cash,Emeka,0,False,1,4,True,6600.0,0.0,Gold,Sat
+1121,2024-01-27,Saturday,Afternoon,Chin Chin,Desserts,2,500.0,1000.0,Card,Emeka,6,False,1,4,True,1000.0,0.0,Bronze,Sat
+1122,2024-01-27,Saturday,Evening,Zobo,Drinks,2,400.0,800.0,Cash,Emeka,0,False,1,4,True,800.0,0.0,Standard,Sat
+1123,2024-01-28,Sunday,Evening,Chapman,Drinks,4,600.0,2400.0,Cash,Blessing,0,False,1,4,True,2400.0,0.0,Bronze,Sun
+1124,2024-01-28,Sunday,Afternoon,Jollof Rice,Mains,2,1800.0,3600.0,Card,Blessing,14,False,1,4,True,3600.0,0.0,Silver,Sun
+1125,2024-01-28,Sunday,Morning,Beef Suya,Starters,3,1100.0,3300.0,Card,Blessing,0,False,1,4,True,3300.0,0.0,Silver,Sun
+1126,2024-01-28,Sunday,Morning,Egusi Soup,Mains,1,1500.0,1350.0,Cash,Chukwu,1,True,1,4,True,1500.0,150.0,Bronze,Sun
+1127,2024-01-28,Sunday,Evening,Chin Chin,Desserts,1,500.0,500.0,Card,Emeka,15,False,1,4,True,500.0,0.0,Standard,Sun
+1128,2024-01-29,Monday,Evening,Chapman,Drinks,1,600.0,600.0,Transfer,Emeka,5,False,1,5,False,600.0,0.0,Standard,Mon
+1129,2024-01-29,Monday,Afternoon,Spring Rolls,Starters,2,900.0,1800.0,Cash,Blessing,10,False,1,5,False,1800.0,0.0,Bronze,Mon
+1130,2024-01-29,Monday,Morning,Pounded Yam,Mains,1,2200.0,2200.0,Card,Emeka,12,False,1,5,False,2200.0,0.0,Bronze,Mon
+1131,2024-01-29,Monday,Morning,Fresh Juice,Drinks,1,700.0,700.0,Cash,Emeka,14,False,1,5,False,700.0,0.0,Standard,Mon
+1132,2024-01-29,Monday,Morning,Zobo,Drinks,2,400.0,800.0,Cash,Emeka,4,False,1,5,False,800.0,0.0,Standard,Mon
+1133,2024-01-30,Tuesday,Afternoon,Chin Chin,Desserts,1,500.0,500.0,Card,Emeka,6,False,1,5,False,500.0,0.0,Standard,Tue
+1134,2024-01-30,Tuesday,Afternoon,Beef Suya,Starters,1,1100.0,1100.0,Cash,Emeka,13,False,1,5,False,1100.0,0.0,Bronze,Tue
+1135,2024-01-30,Tuesday,Afternoon,Spring Rolls,Starters,1,900.0,900.0,Card,Blessing,11,False,1,5,False,900.0,0.0,Standard,Tue
+1136,2024-01-30,Tuesday,Evening,Jollof Rice,Mains,5,1800.0,9000.0,Card,Blessing,0,False,1,5,False,9000.0,0.0,Platinum,Tue
+1137,2024-01-30,Tuesday,Morning,Chin Chin,Desserts,2,500.0,1000.0,Card,Emeka,10,False,1,5,False,1000.0,0.0,Bronze,Tue
+1138,2024-01-30,Tuesday,Afternoon,Pounded Yam,Mains,1,2200.0,2200.0,Cash,Amaka,0,False,1,5,False,2200.0,0.0,Bronze,Tue
+1139,2024-01-31,Wednesday,Morning,Puff Puff,Desserts,1,450.0,450.0,Card,Chukwu,15,False,1,5,False,450.0,0.0,Standard,Wed
+1140,2024-01-31,Wednesday,Evening,Zobo,Drinks,2,400.0,800.0,Cash,Blessing,0,False,1,5,False,800.0,0.0,Standard,Wed
+1141,2024-01-31,Wednesday,Afternoon,Zobo,Drinks,2,400.0,800.0,Transfer,Emeka,14,False,1,5,False,800.0,0.0,Standard,Wed
+1142,2024-01-31,Wednesday,Evening,Fried Plantain,Starters,2,800.0,1600.0,Card,Chukwu,10,False,1,5,False,1600.0,0.0,Bronze,Wed
+1143,2024-01-31,Wednesday,Afternoon,Chin Chin,Desserts,1,500.0,500.0,Card,Emeka,13,False,1,5,False,500.0,0.0,Standard,Wed
+1144,2024-01-31,Wednesday,Evening,Egusi Soup,Mains,1,1500.0,1500.0,Cash,Emeka,5,False,1,5,False,1500.0,0.0,Bronze,Wed
+1145,2024-01-31,Wednesday,Morning,Egusi Soup,Mains,1,1500.0,1500.0,Card,Amaka,9,False,1,5,False,1500.0,0.0,Bronze,Wed
+1146,2024-01-31,Wednesday,Evening,Beef Suya,Starters,1,1100.0,1100.0,Cash,Blessing,7,False,1,5,False,1100.0,0.0,Bronze,Wed
+1147,2024-01-31,Wednesday,Evening,Spring Rolls,Starters,3,900.0,2700.0,Cash,Emeka,14,False,1,5,False,2700.0,0.0,Silver,Wed
+1148,2024-01-31,Wednesday,Afternoon,Fresh Juice,Drinks,2,700.0,1400.0,Card,Chukwu,4,False,1,5,False,1400.0,0.0,Bronze,Wed
+1149,2024-01-31,Wednesday,Evening,Pounded Yam,Mains,3,2200.0,6600.0,Transfer,Chukwu,12,False,1,5,False,6600.0,0.0,Gold,Wed
+1150,2024-02-01,Thursday,Evening,Pounded Yam,Mains,2,2200.0,4400.0,Cash,Emeka,14,False,2,5,False,4400.0,0.0,Silver,Thu
+1151,2024-02-01,Thursday,Afternoon,Beef Suya,Starters,1,1100.0,990.0,Cash,Chukwu,14,True,2,5,False,1100.0,110.0,Standard,Thu
+1152,2024-02-01,Thursday,Evening,Fresh Juice,Drinks,2,700.0,1400.0,Cash,Amaka,9,False,2,5,False,1400.0,0.0,Bronze,Thu
+1153,2024-02-01,Thursday,Afternoon,Egusi Soup,Mains,2,1500.0,3000.0,Card,Emeka,7,False,2,5,False,3000.0,0.0,Silver,Thu
+1154,2024-02-02,Friday,Afternoon,Fried Plantain,Starters,4,800.0,3200.0,Cash,Amaka,14,False,2,5,False,3200.0,0.0,Silver,Fri
+1155,2024-02-02,Friday,Evening,Spring Rolls,Starters,1,900.0,810.0,Card,Emeka,12,True,2,5,False,900.0,90.0,Standard,Fri
+1156,2024-02-02,Friday,Afternoon,Spring Rolls,Starters,1,900.0,900.0,Card,Emeka,12,False,2,5,False,900.0,0.0,Standard,Fri
+1157,2024-02-02,Friday,Morning,Chapman,Drinks,1,600.0,600.0,Cash,Chukwu,0,False,2,5,False,600.0,0.0,Standard,Fri
+1158,2024-02-03,Saturday,Morning,Puff Puff,Desserts,1,450.0,405.0,Card,Amaka,0,True,2,5,True,450.0,45.0,Standard,Sat
+1159,2024-02-03,Saturday,Morning,Egusi Soup,Mains,1,1500.0,1500.0,Transfer,Emeka,14,False,2,5,True,1500.0,0.0,Bronze,Sat
+1160,2024-02-03,Saturday,Afternoon,Pounded Yam,Mains,5,2200.0,11000.0,Cash,Blessing,12,False,2,5,True,11000.0,0.0,Platinum,Sat
+1161,2024-02-03,Saturday,Afternoon,Zobo,Drinks,1,400.0,400.0,Card,Chukwu,8,False,2,5,True,400.0,0.0,Standard,Sat
+1162,2024-02-03,Saturday,Morning,Jollof Rice,Mains,3,1800.0,5400.0,Cash,Blessing,0,False,2,5,True,5400.0,0.0,Gold,Sat
+1163,2024-02-03,Saturday,Afternoon,Zobo,Drinks,5,400.0,2000.0,Cash,Chukwu,8,False,2,5,True,2000.0,0.0,Bronze,Sat
+1164,2024-02-04,Sunday,Evening,Jollof Rice,Mains,1,1800.0,1800.0,Card,Amaka,15,False,2,5,True,1800.0,0.0,Bronze,Sun
+1165,2024-02-04,Sunday,Afternoon,Spring Rolls,Starters,2,900.0,1800.0,Cash,Chukwu,6,False,2,5,True,1800.0,0.0,Bronze,Sun
+1166,2024-02-04,Sunday,Evening,Jollof Rice,Mains,2,1800.0,3600.0,Card,Amaka,11,False,2,5,True,3600.0,0.0,Silver,Sun
+1167,2024-02-04,Sunday,Evening,Chapman,Drinks,1,600.0,600.0,Transfer,Chukwu,7,False,2,5,True,600.0,0.0,Standard,Sun
+1168,2024-02-04,Sunday,Afternoon,Fried Plantain,Starters,1,800.0,800.0,Card,Amaka,12,False,2,5,True,800.0,0.0,Standard,Sun
+1169,2024-02-05,Monday,Afternoon,Spring Rolls,Starters,1,900.0,810.0,Card,Emeka,12,True,2,6,False,900.0,90.0,Standard,Mon
+1170,2024-02-05,Monday,Evening,Fried Plantain,Starters,2,800.0,1600.0,Card,Chukwu,5,False,2,6,False,1600.0,0.0,Bronze,Mon
+1171,2024-02-05,Monday,Morning,Pounded Yam,Mains,2,2200.0,4400.0,Cash,Emeka,0,False,2,6,False,4400.0,0.0,Silver,Mon
+1172,2024-02-05,Monday,Afternoon,Beef Suya,Starters,2,1100.0,2200.0,Card,Chukwu,11,False,2,6,False,2200.0,0.0,Bronze,Mon
+1173,2024-02-06,Tuesday,Morning,Spring Rolls,Starters,1,900.0,900.0,Card,Emeka,4,False,2,6,False,900.0,0.0,Standard,Tue
+1174,2024-02-06,Tuesday,Afternoon,Pepper Soup,Starters,4,1200.0,4800.0,Cash,Amaka,5,False,2,6,False,4800.0,0.0,Silver,Tue
+1175,2024-02-06,Tuesday,Afternoon,Fried Plantain,Starters,4,800.0,3200.0,Card,Chukwu,2,False,2,6,False,3200.0,0.0,Silver,Tue
+1176,2024-02-06,Tuesday,Afternoon,Pepper Soup,Starters,3,1200.0,3600.0,Cash,Emeka,0,False,2,6,False,3600.0,0.0,Silver,Tue
+1177,2024-02-06,Tuesday,Evening,Zobo,Drinks,1,400.0,360.0,Cash,Emeka,4,True,2,6,False,400.0,40.0,Standard,Tue
+1178,2024-02-06,Tuesday,Morning,Chapman,Drinks,2,600.0,1200.0,Card,Blessing,0,False,2,6,False,1200.0,0.0,Bronze,Tue
+1179,2024-02-07,Wednesday,Morning,Spring Rolls,Starters,4,900.0,3600.0,Cash,Chukwu,0,False,2,6,False,3600.0,0.0,Silver,Wed
+1180,2024-02-08,Thursday,Afternoon,Puff Puff,Desserts,4,450.0,1800.0,Cash,Amaka,8,False,2,6,False,1800.0,0.0,Bronze,Thu
+1181,2024-02-08,Thursday,Evening,Beef Suya,Starters,2,1100.0,2200.0,Card,Chukwu,2,False,2,6,False,2200.0,0.0,Bronze,Thu
+1182,2024-02-08,Thursday,Evening,Jollof Rice,Mains,3,1800.0,5400.0,Cash,Amaka,0,False,2,6,False,5400.0,0.0,Gold,Thu
+1183,2024-02-08,Thursday,Afternoon,Egusi Soup,Mains,2,1500.0,3000.0,Cash,Chukwu,9,False,2,6,False,3000.0,0.0,Silver,Thu
+1184,2024-02-08,Thursday,Afternoon,Pounded Yam,Mains,1,2200.0,2200.0,Card,Chukwu,7,False,2,6,False,2200.0,0.0,Bronze,Thu
+1185,2024-02-08,Thursday,Morning,Fried Plantain,Starters,5,800.0,4000.0,Cash,Chukwu,7,False,2,6,False,4000.0,0.0,Silver,Thu
+1186,2024-02-08,Thursday,Evening,Pepper Soup,Starters,1,1200.0,1200.0,Cash,Emeka,6,False,2,6,False,1200.0,0.0,Bronze,Thu
+1187,2024-02-08,Thursday,Evening,Pepper Soup,Starters,2,1200.0,2400.0,Card,Emeka,5,False,2,6,False,2400.0,0.0,Bronze,Thu
+1188,2024-02-08,Thursday,Afternoon,Fresh Juice,Drinks,2,700.0,1260.0,Cash,Blessing,0,True,2,6,False,1400.0,140.0,Bronze,Thu
+1189,2024-02-09,Friday,Afternoon,Beef Suya,Starters,2,1100.0,2200.0,Card,Chukwu,6,False,2,6,False,2200.0,0.0,Bronze,Fri
+1190,2024-02-09,Friday,Evening,Pepper Soup,Starters,5,1200.0,6000.0,Card,Blessing,14,False,2,6,False,6000.0,0.0,Gold,Fri
+1191,2024-02-09,Friday,Afternoon,Zobo,Drinks,3,400.0,1200.0,Card,Emeka,14,False,2,6,False,1200.0,0.0,Bronze,Fri
+1192,2024-02-09,Friday,Morning,Beef Suya,Starters,5,1100.0,5500.0,Card,Emeka,9,False,2,6,False,5500.0,0.0,Gold,Fri
+1193,2024-02-09,Friday,Morning,Pepper Soup,Starters,2,1200.0,2400.0,Card,Amaka,12,False,2,6,False,2400.0,0.0,Bronze,Fri
+1194,2024-02-09,Friday,Morning,Pounded Yam,Mains,1,2200.0,2200.0,Cash,Amaka,5,False,2,6,False,2200.0,0.0,Bronze,Fri
+1195,2024-02-09,Friday,Afternoon,Chin Chin,Desserts,2,500.0,1000.0,Cash,Blessing,2,False,2,6,False,1000.0,0.0,Bronze,Fri
+1196,2024-02-09,Friday,Afternoon,Egusi Soup,Mains,3,1500.0,4500.0,Card,Emeka,15,False,2,6,False,4500.0,0.0,Silver,Fri
+1197,2024-02-09,Friday,Afternoon,Chapman,Drinks,3,600.0,1800.0,Transfer,Chukwu,3,False,2,6,False,1800.0,0.0,Bronze,Fri
+1198,2024-02-09,Friday,Afternoon,Pepper Soup,Starters,3,1200.0,3600.0,Cash,Blessing,2,False,2,6,False,3600.0,0.0,Silver,Fri
+1199,2024-02-09,Friday,Evening,Pounded Yam,Mains,2,2200.0,4400.0,Cash,Chukwu,15,False,2,6,False,4400.0,0.0,Silver,Fri
+1200,2024-02-09,Friday,Afternoon,Chapman,Drinks,3,600.0,1800.0,Transfer,Chukwu,0,False,2,6,False,1800.0,0.0,Bronze,Fri
+1201,2024-02-09,Friday,Afternoon,Fresh Juice,Drinks,2,700.0,1400.0,Cash,Amaka,12,False,2,6,False,1400.0,0.0,Bronze,Fri
+1202,2024-02-09,Friday,Morning,Pepper Soup,Starters,2,1200.0,2400.0,Card,Amaka,0,False,2,6,False,2400.0,0.0,Bronze,Fri
+1203,2024-02-10,Saturday,Morning,Zobo,Drinks,1,400.0,400.0,Card,Chukwu,14,False,2,6,True,400.0,0.0,Standard,Sat
+1204,2024-02-10,Saturday,Afternoon,Fresh Juice,Drinks,1,700.0,700.0,Cash,Amaka,0,False,2,6,True,700.0,0.0,Standard,Sat
+1205,2024-02-10,Saturday,Evening,Egusi Soup,Mains,1,1500.0,1500.0,Card,Emeka,1,False,2,6,True,1500.0,0.0,Bronze,Sat
+1206,2024-02-10,Saturday,Evening,Beef Suya,Starters,1,1100.0,1100.0,Card,Blessing,5,False,2,6,True,1100.0,0.0,Bronze,Sat
+1207,2024-02-10,Saturday,Afternoon,Egusi Soup,Mains,1,1500.0,1350.0,Transfer,Amaka,5,True,2,6,True,1500.0,150.0,Bronze,Sat
+1208,2024-02-11,Sunday,Afternoon,Pounded Yam,Mains,1,2200.0,2200.0,Card,Amaka,10,False,2,6,True,2200.0,0.0,Bronze,Sun
+1209,2024-02-11,Sunday,Morning,Spring Rolls,Starters,1,900.0,810.0,Cash,Amaka,0,True,2,6,True,900.0,90.0,Standard,Sun
+1210,2024-02-11,Sunday,Afternoon,Pepper Soup,Starters,1,1200.0,1200.0,Card,Amaka,7,False,2,6,True,1200.0,0.0,Bronze,Sun
+1211,2024-02-11,Sunday,Morning,Pepper Soup,Starters,4,1200.0,4800.0,Card,Blessing,4,False,2,6,True,4800.0,0.0,Silver,Sun
+1212,2024-02-11,Sunday,Evening,Puff Puff,Desserts,3,450.0,1350.0,Transfer,Amaka,9,False,2,6,True,1350.0,0.0,Bronze,Sun
+1213,2024-02-11,Sunday,Afternoon,Beef Suya,Starters,1,1100.0,1100.0,Transfer,Emeka,5,False,2,6,True,1100.0,0.0,Bronze,Sun
+1214,2024-02-11,Sunday,Evening,Zobo,Drinks,2,400.0,800.0,Card,Blessing,7,False,2,6,True,800.0,0.0,Standard,Sun
+1215,2024-02-11,Sunday,Evening,Egusi Soup,Mains,1,1500.0,1350.0,Cash,Emeka,0,True,2,6,True,1500.0,150.0,Bronze,Sun
+1216,2024-02-12,Monday,Evening,Fried Plantain,Starters,2,800.0,1600.0,Cash,Amaka,5,False,2,7,False,1600.0,0.0,Bronze,Mon
+1217,2024-02-12,Monday,Evening,Pepper Soup,Starters,1,1200.0,1080.0,Card,Emeka,10,True,2,7,False,1200.0,120.0,Bronze,Mon
+1218,2024-02-12,Monday,Afternoon,Chapman,Drinks,3,600.0,1800.0,Cash,Emeka,1,False,2,7,False,1800.0,0.0,Bronze,Mon
+1219,2024-02-12,Monday,Afternoon,Fresh Juice,Drinks,2,700.0,1400.0,Cash,Amaka,4,False,2,7,False,1400.0,0.0,Bronze,Mon
+1220,2024-02-12,Monday,Afternoon,Chin Chin,Desserts,5,500.0,2500.0,Transfer,Chukwu,12,False,2,7,False,2500.0,0.0,Silver,Mon
+1221,2024-02-13,Tuesday,Afternoon,Pounded Yam,Mains,2,2200.0,4400.0,Card,Emeka,2,False,2,7,False,4400.0,0.0,Silver,Tue
+1222,2024-02-13,Tuesday,Morning,Jollof Rice,Mains,4,1800.0,7200.0,Cash,Blessing,10,False,2,7,False,7200.0,0.0,Gold,Tue
+1223,2024-02-13,Tuesday,Evening,Chapman,Drinks,1,600.0,600.0,Card,Blessing,8,False,2,7,False,600.0,0.0,Standard,Tue
+1224,2024-02-13,Tuesday,Evening,Puff Puff,Desserts,3,450.0,1350.0,Transfer,Amaka,5,False,2,7,False,1350.0,0.0,Bronze,Tue
+1225,2024-02-14,Wednesday,Evening,Spring Rolls,Starters,5,900.0,4500.0,Card,Blessing,11,False,2,7,False,4500.0,0.0,Silver,Wed
+1226,2024-02-14,Wednesday,Evening,Chapman,Drinks,5,600.0,3000.0,Cash,Chukwu,0,False,2,7,False,3000.0,0.0,Silver,Wed
+1227,2024-02-14,Wednesday,Morning,Pepper Soup,Starters,3,1200.0,3600.0,Card,Emeka,6,False,2,7,False,3600.0,0.0,Silver,Wed
+1228,2024-02-14,Wednesday,Afternoon,Jollof Rice,Mains,2,1800.0,3600.0,Card,Amaka,0,False,2,7,False,3600.0,0.0,Silver,Wed
+1229,2024-02-15,Thursday,Morning,Chin Chin,Desserts,3,500.0,1500.0,Card,Emeka,12,False,2,7,False,1500.0,0.0,Bronze,Thu
+1230,2024-02-15,Thursday,Morning,Jollof Rice,Mains,1,1800.0,1800.0,Transfer,Chukwu,10,False,2,7,False,1800.0,0.0,Bronze,Thu
+1231,2024-02-15,Thursday,Evening,Zobo,Drinks,2,400.0,800.0,Cash,Amaka,6,False,2,7,False,800.0,0.0,Standard,Thu
+1232,2024-02-15,Thursday,Evening,Puff Puff,Desserts,1,450.0,450.0,Cash,Chukwu,4,False,2,7,False,450.0,0.0,Standard,Thu
+1233,2024-02-15,Thursday,Afternoon,Egusi Soup,Mains,3,1500.0,4500.0,Card,Chukwu,13,False,2,7,False,4500.0,0.0,Silver,Thu
+1234,2024-02-16,Friday,Afternoon,Puff Puff,Desserts,4,450.0,1800.0,Cash,Amaka,0,False,2,7,False,1800.0,0.0,Bronze,Fri
+1235,2024-02-16,Friday,Afternoon,Puff Puff,Desserts,2,450.0,900.0,Card,Emeka,7,False,2,7,False,900.0,0.0,Standard,Fri
+1236,2024-02-16,Friday,Afternoon,Egusi Soup,Mains,1,1500.0,1500.0,Card,Emeka,0,False,2,7,False,1500.0,0.0,Bronze,Fri
+1237,2024-02-16,Friday,Morning,Pounded Yam,Mains,2,2200.0,3960.0,Cash,Blessing,0,True,2,7,False,4400.0,440.0,Silver,Fri
+1238,2024-02-17,Saturday,Evening,Beef Suya,Starters,3,1100.0,3300.0,Card,Emeka,13,False,2,7,True,3300.0,0.0,Silver,Sat
+1239,2024-02-17,Saturday,Morning,Zobo,Drinks,3,400.0,1200.0,Cash,Amaka,11,False,2,7,True,1200.0,0.0,Bronze,Sat
+1240,2024-02-17,Saturday,Evening,Chin Chin,Desserts,4,500.0,1800.0,Cash,Emeka,15,True,2,7,True,2000.0,200.0,Bronze,Sat
+1241,2024-02-18,Sunday,Evening,Chapman,Drinks,5,600.0,3000.0,Card,Chukwu,9,False,2,7,True,3000.0,0.0,Silver,Sun
+1242,2024-02-18,Sunday,Morning,Puff Puff,Desserts,1,450.0,450.0,Cash,Chukwu,6,False,2,7,True,450.0,0.0,Standard,Sun
+1243,2024-02-18,Sunday,Afternoon,Egusi Soup,Mains,4,1500.0,6000.0,Cash,Blessing,5,False,2,7,True,6000.0,0.0,Gold,Sun
+1244,2024-02-18,Sunday,Afternoon,Spring Rolls,Starters,2,900.0,1800.0,Cash,Emeka,0,False,2,7,True,1800.0,0.0,Bronze,Sun
+1245,2024-02-18,Sunday,Evening,Egusi Soup,Mains,2,1500.0,3000.0,Card,Chukwu,12,False,2,7,True,3000.0,0.0,Silver,Sun
+1246,2024-02-18,Sunday,Evening,Pepper Soup,Starters,2,1200.0,2160.0,Cash,Emeka,0,True,2,7,True,2400.0,240.0,Bronze,Sun
+1247,2024-02-19,Monday,Evening,Zobo,Drinks,1,400.0,400.0,Cash,Emeka,15,False,2,8,False,400.0,0.0,Standard,Mon
+1248,2024-02-19,Monday,Afternoon,Chapman,Drinks,1,600.0,600.0,Cash,Emeka,11,False,2,8,False,600.0,0.0,Standard,Mon
+1249,2024-02-19,Monday,Evening,Pepper Soup,Starters,1,1200.0,1200.0,Cash,Blessing,0,False,2,8,False,1200.0,0.0,Bronze,Mon
+1250,2024-02-19,Monday,Evening,Pepper Soup,Starters,1,1200.0,1200.0,Cash,Chukwu,14,False,2,8,False,1200.0,0.0,Bronze,Mon
+1251,2024-02-20,Tuesday,Morning,Puff Puff,Desserts,5,450.0,2250.0,Card,Amaka,3,False,2,8,False,2250.0,0.0,Bronze,Tue
+1252,2024-02-20,Tuesday,Afternoon,Spring Rolls,Starters,2,900.0,1800.0,Cash,Chukwu,15,False,2,8,False,1800.0,0.0,Bronze,Tue
+1253,2024-02-20,Tuesday,Afternoon,Zobo,Drinks,2,400.0,800.0,Transfer,Amaka,10,False,2,8,False,800.0,0.0,Standard,Tue
+1254,2024-02-20,Tuesday,Afternoon,Zobo,Drinks,3,400.0,1200.0,Cash,Chukwu,10,False,2,8,False,1200.0,0.0,Bronze,Tue
+1255,2024-02-20,Tuesday,Morning,Pounded Yam,Mains,2,2200.0,4400.0,Cash,Emeka,13,False,2,8,False,4400.0,0.0,Silver,Tue
+1256,2024-02-20,Tuesday,Afternoon,Beef Suya,Starters,1,1100.0,1100.0,Transfer,Chukwu,3,False,2,8,False,1100.0,0.0,Bronze,Tue
+1257,2024-02-20,Tuesday,Afternoon,Zobo,Drinks,4,400.0,1600.0,Card,Emeka,8,False,2,8,False,1600.0,0.0,Bronze,Tue
+1258,2024-02-20,Tuesday,Afternoon,Chapman,Drinks,1,600.0,600.0,Transfer,Emeka,10,False,2,8,False,600.0,0.0,Standard,Tue
+1259,2024-02-21,Wednesday,Afternoon,Pounded Yam,Mains,1,2200.0,1980.0,Transfer,Amaka,3,True,2,8,False,2200.0,220.0,Bronze,Wed
+1260,2024-02-21,Wednesday,Afternoon,Pepper Soup,Starters,2,1200.0,2400.0,Cash,Amaka,8,False,2,8,False,2400.0,0.0,Bronze,Wed
+1261,2024-02-21,Wednesday,Evening,Fresh Juice,Drinks,1,700.0,700.0,Card,Amaka,9,False,2,8,False,700.0,0.0,Standard,Wed
+1262,2024-02-22,Thursday,Afternoon,Fresh Juice,Drinks,2,700.0,1400.0,Card,Chukwu,3,False,2,8,False,1400.0,0.0,Bronze,Thu
+1263,2024-02-22,Thursday,Evening,Fried Plantain,Starters,1,800.0,800.0,Cash,Amaka,0,False,2,8,False,800.0,0.0,Standard,Thu
+1264,2024-02-22,Thursday,Afternoon,Beef Suya,Starters,3,1100.0,3300.0,Card,Chukwu,0,False,2,8,False,3300.0,0.0,Silver,Thu
+1265,2024-02-22,Thursday,Afternoon,Beef Suya,Starters,3,1100.0,3300.0,Transfer,Amaka,5,False,2,8,False,3300.0,0.0,Silver,Thu
+1266,2024-02-23,Friday,Evening,Pounded Yam,Mains,1,2200.0,2200.0,Cash,Blessing,0,False,2,8,False,2200.0,0.0,Bronze,Fri
+1267,2024-02-23,Friday,Evening,Egusi Soup,Mains,2,1500.0,3000.0,Transfer,Chukwu,3,False,2,8,False,3000.0,0.0,Silver,Fri
+1268,2024-02-23,Friday,Afternoon,Chin Chin,Desserts,3,500.0,1500.0,Card,Emeka,2,False,2,8,False,1500.0,0.0,Bronze,Fri
+1269,2024-02-23,Friday,Afternoon,Beef Suya,Starters,1,1100.0,1100.0,Transfer,Emeka,10,False,2,8,False,1100.0,0.0,Bronze,Fri
+1270,2024-02-23,Friday,Morning,Beef Suya,Starters,3,1100.0,3300.0,Cash,Emeka,3,False,2,8,False,3300.0,0.0,Silver,Fri
+1271,2024-02-23,Friday,Afternoon,Puff Puff,Desserts,2,450.0,900.0,Card,Amaka,11,False,2,8,False,900.0,0.0,Standard,Fri
+1272,2024-02-24,Saturday,Morning,Fried Plantain,Starters,2,800.0,1440.0,Card,Chukwu,8,True,2,8,True,1600.0,160.0,Bronze,Sat
+1273,2024-02-24,Saturday,Evening,Zobo,Drinks,1,400.0,400.0,Transfer,Blessing,15,False,2,8,True,400.0,0.0,Standard,Sat
+1274,2024-02-24,Saturday,Afternoon,Puff Puff,Desserts,2,450.0,900.0,Cash,Blessing,5,False,2,8,True,900.0,0.0,Standard,Sat
+1275,2024-02-24,Saturday,Evening,Pepper Soup,Starters,4,1200.0,4800.0,Card,Amaka,3,False,2,8,True,4800.0,0.0,Silver,Sat
+1276,2024-02-24,Saturday,Morning,Fried Plantain,Starters,1,800.0,800.0,Cash,Chukwu,4,False,2,8,True,800.0,0.0,Standard,Sat
+1277,2024-02-24,Saturday,Evening,Egusi Soup,Mains,2,1500.0,3000.0,Card,Amaka,0,False,2,8,True,3000.0,0.0,Silver,Sat
+1278,2024-02-24,Saturday,Morning,Puff Puff,Desserts,5,450.0,2250.0,Card,Chukwu,10,False,2,8,True,2250.0,0.0,Bronze,Sat
+1279,2024-02-24,Saturday,Evening,Beef Suya,Starters,1,1100.0,1100.0,Card,Blessing,9,False,2,8,True,1100.0,0.0,Bronze,Sat
+1280,2024-02-24,Saturday,Evening,Pepper Soup,Starters,1,1200.0,1080.0,Card,Emeka,9,True,2,8,True,1200.0,120.0,Bronze,Sat
+1281,2024-02-24,Saturday,Evening,Fresh Juice,Drinks,1,700.0,700.0,Cash,Amaka,14,False,2,8,True,700.0,0.0,Standard,Sat
+1282,2024-02-25,Sunday,Evening,Fried Plantain,Starters,4,800.0,3200.0,Card,Chukwu,8,False,2,8,True,3200.0,0.0,Silver,Sun
+1283,2024-02-25,Sunday,Evening,Zobo,Drinks,2,400.0,800.0,Cash,Emeka,14,False,2,8,True,800.0,0.0,Standard,Sun
+1284,2024-02-25,Sunday,Evening,Spring Rolls,Starters,1,900.0,900.0,Card,Amaka,9,False,2,8,True,900.0,0.0,Standard,Sun
+1285,2024-02-26,Monday,Morning,Pepper Soup,Starters,4,1200.0,4320.0,Transfer,Emeka,15,True,2,9,False,4800.0,480.0,Silver,Mon
+1286,2024-02-26,Monday,Evening,Chapman,Drinks,2,600.0,1200.0,Card,Chukwu,0,False,2,9,False,1200.0,0.0,Bronze,Mon
+1287,2024-02-26,Monday,Afternoon,Spring Rolls,Starters,2,900.0,1620.0,Card,Emeka,12,True,2,9,False,1800.0,180.0,Bronze,Mon
+1288,2024-02-26,Monday,Evening,Chapman,Drinks,3,600.0,1800.0,Cash,Emeka,7,False,2,9,False,1800.0,0.0,Bronze,Mon
+1289,2024-02-27,Tuesday,Morning,Fresh Juice,Drinks,2,700.0,1400.0,Cash,Amaka,0,False,2,9,False,1400.0,0.0,Bronze,Tue
+1290,2024-02-27,Tuesday,Afternoon,Fried Plantain,Starters,1,800.0,800.0,Transfer,Amaka,3,False,2,9,False,800.0,0.0,Standard,Tue
+1291,2024-02-27,Tuesday,Afternoon,Egusi Soup,Mains,2,1500.0,2700.0,Card,Amaka,0,True,2,9,False,3000.0,300.0,Silver,Tue
+1292,2024-02-27,Tuesday,Morning,Fresh Juice,Drinks,1,700.0,700.0,Cash,Amaka,14,False,2,9,False,700.0,0.0,Standard,Tue
+1293,2024-02-27,Tuesday,Afternoon,Chapman,Drinks,4,600.0,2400.0,Cash,Amaka,5,False,2,9,False,2400.0,0.0,Bronze,Tue
+1294,2024-02-27,Tuesday,Morning,Zobo,Drinks,2,400.0,800.0,Card,Chukwu,13,False,2,9,False,800.0,0.0,Standard,Tue
+1295,2024-02-27,Tuesday,Evening,Jollof Rice,Mains,1,1800.0,1800.0,Transfer,Amaka,12,False,2,9,False,1800.0,0.0,Bronze,Tue
+1296,2024-02-27,Tuesday,Evening,Jollof Rice,Mains,3,1800.0,4860.0,Transfer,Emeka,14,True,2,9,False,5400.0,540.0,Silver,Tue
+1297,2024-02-28,Wednesday,Evening,Zobo,Drinks,1,400.0,400.0,Cash,Emeka,15,False,2,9,False,400.0,0.0,Standard,Wed
+1298,2024-02-28,Wednesday,Afternoon,Spring Rolls,Starters,1,900.0,900.0,Card,Amaka,3,False,2,9,False,900.0,0.0,Standard,Wed
+1299,2024-02-28,Wednesday,Evening,Zobo,Drinks,2,400.0,800.0,Card,Blessing,10,False,2,9,False,800.0,0.0,Standard,Wed
+1300,2024-02-28,Wednesday,Evening,Egusi Soup,Mains,4,1500.0,6000.0,Transfer,Emeka,5,False,2,9,False,6000.0,0.0,Gold,Wed
+1301,2024-02-28,Wednesday,Evening,Chapman,Drinks,3,600.0,1800.0,Transfer,Amaka,3,False,2,9,False,1800.0,0.0,Bronze,Wed
+1302,2024-02-28,Wednesday,Morning,Zobo,Drinks,2,400.0,800.0,Cash,Amaka,9,False,2,9,False,800.0,0.0,Standard,Wed
+1303,2024-02-28,Wednesday,Afternoon,Chin Chin,Desserts,1,500.0,500.0,Transfer,Emeka,7,False,2,9,False,500.0,0.0,Standard,Wed
+1304,2024-02-28,Wednesday,Afternoon,Chapman,Drinks,3,600.0,1800.0,Card,Blessing,12,False,2,9,False,1800.0,0.0,Bronze,Wed
+1305,2024-02-29,Thursday,Afternoon,Zobo,Drinks,1,400.0,400.0,Cash,Amaka,0,False,2,9,False,400.0,0.0,Standard,Thu
+1306,2024-02-29,Thursday,Morning,Fresh Juice,Drinks,1,700.0,700.0,Cash,Emeka,0,False,2,9,False,700.0,0.0,Standard,Thu
+1307,2024-02-29,Thursday,Afternoon,Pepper Soup,Starters,1,1200.0,1200.0,Cash,Blessing,15,False,2,9,False,1200.0,0.0,Bronze,Thu
+1308,2024-02-29,Thursday,Evening,Fried Plantain,Starters,1,800.0,800.0,Card,Chukwu,8,False,2,9,False,800.0,0.0,Standard,Thu
+1309,2024-02-29,Thursday,Morning,Jollof Rice,Mains,1,1800.0,1800.0,Transfer,Chukwu,0,False,2,9,False,1800.0,0.0,Bronze,Thu
+1310,2024-02-29,Thursday,Morning,Fried Plantain,Starters,1,800.0,800.0,Cash,Blessing,10,False,2,9,False,800.0,0.0,Standard,Thu
+1311,2024-03-01,Friday,Afternoon,Chapman,Drinks,3,600.0,1800.0,Cash,Amaka,5,False,3,9,False,1800.0,0.0,Bronze,Fri
+1312,2024-03-01,Friday,Afternoon,Spring Rolls,Starters,2,900.0,1800.0,Transfer,Amaka,13,False,3,9,False,1800.0,0.0,Bronze,Fri
+1313,2024-03-01,Friday,Evening,Pepper Soup,Starters,1,1200.0,1200.0,Card,Amaka,0,False,3,9,False,1200.0,0.0,Bronze,Fri
+1314,2024-03-01,Friday,Morning,Pounded Yam,Mains,1,2200.0,2200.0,Transfer,Blessing,13,False,3,9,False,2200.0,0.0,Bronze,Fri
+1315,2024-03-01,Friday,Evening,Jollof Rice,Mains,2,1800.0,3600.0,Cash,Blessing,3,False,3,9,False,3600.0,0.0,Silver,Fri
+1316,2024-03-01,Friday,Morning,Fresh Juice,Drinks,5,700.0,3500.0,Transfer,Emeka,1,False,3,9,False,3500.0,0.0,Silver,Fri
+1317,2024-03-01,Friday,Afternoon,Pounded Yam,Mains,2,2200.0,3960.0,Card,Amaka,8,True,3,9,False,4400.0,440.0,Silver,Fri
+1318,2024-03-01,Friday,Evening,Jollof Rice,Mains,3,1800.0,5400.0,Cash,Blessing,11,False,3,9,False,5400.0,0.0,Gold,Fri
+1319,2024-03-02,Saturday,Evening,Beef Suya,Starters,1,1100.0,1100.0,Card,Amaka,4,False,3,9,True,1100.0,0.0,Bronze,Sat
+1320,2024-03-02,Saturday,Morning,Puff Puff,Desserts,4,450.0,1800.0,Card,Emeka,0,False,3,9,True,1800.0,0.0,Bronze,Sat
+1321,2024-03-02,Saturday,Afternoon,Chapman,Drinks,2,600.0,1200.0,Cash,Amaka,7,False,3,9,True,1200.0,0.0,Bronze,Sat
+1322,2024-03-02,Saturday,Afternoon,Fried Plantain,Starters,4,800.0,3200.0,Card,Amaka,2,False,3,9,True,3200.0,0.0,Silver,Sat
+1323,2024-03-03,Sunday,Afternoon,Pepper Soup,Starters,3,1200.0,3600.0,Transfer,Emeka,1,False,3,9,True,3600.0,0.0,Silver,Sun
+1324,2024-03-03,Sunday,Morning,Jollof Rice,Mains,4,1800.0,7200.0,Transfer,Blessing,0,False,3,9,True,7200.0,0.0,Gold,Sun
+1325,2024-03-04,Monday,Afternoon,Zobo,Drinks,1,400.0,400.0,Card,Blessing,10,False,3,10,False,400.0,0.0,Standard,Mon
+1326,2024-03-04,Monday,Evening,Spring Rolls,Starters,1,900.0,810.0,Cash,Emeka,14,True,3,10,False,900.0,90.0,Standard,Mon
+1327,2024-03-04,Monday,Evening,Egusi Soup,Mains,1,1500.0,1500.0,Cash,Chukwu,0,False,3,10,False,1500.0,0.0,Bronze,Mon
+1328,2024-03-04,Monday,Morning,Chin Chin,Desserts,2,500.0,1000.0,Cash,Emeka,9,False,3,10,False,1000.0,0.0,Bronze,Mon
+1329,2024-03-05,Tuesday,Morning,Pepper Soup,Starters,3,1200.0,3600.0,Cash,Chukwu,0,False,3,10,False,3600.0,0.0,Silver,Tue
+1330,2024-03-05,Tuesday,Afternoon,Chapman,Drinks,1,600.0,540.0,Card,Amaka,2,True,3,10,False,600.0,60.0,Standard,Tue
+1331,2024-03-05,Tuesday,Afternoon,Egusi Soup,Mains,2,1500.0,3000.0,Cash,Blessing,12,False,3,10,False,3000.0,0.0,Silver,Tue
+1332,2024-03-05,Tuesday,Evening,Beef Suya,Starters,1,1100.0,1100.0,Card,Blessing,7,False,3,10,False,1100.0,0.0,Bronze,Tue
+1333,2024-03-05,Tuesday,Afternoon,Zobo,Drinks,4,400.0,1600.0,Transfer,Amaka,7,False,3,10,False,1600.0,0.0,Bronze,Tue
+1334,2024-03-05,Tuesday,Morning,Chin Chin,Desserts,1,500.0,500.0,Cash,Blessing,6,False,3,10,False,500.0,0.0,Standard,Tue
+1335,2024-03-05,Tuesday,Afternoon,Zobo,Drinks,2,400.0,800.0,Card,Emeka,4,False,3,10,False,800.0,0.0,Standard,Tue
+1336,2024-03-05,Tuesday,Evening,Pounded Yam,Mains,3,2200.0,6600.0,Transfer,Chukwu,4,False,3,10,False,6600.0,0.0,Gold,Tue
+1337,2024-03-05,Tuesday,Afternoon,Zobo,Drinks,3,400.0,1200.0,Cash,Chukwu,0,False,3,10,False,1200.0,0.0,Bronze,Tue
+1338,2024-03-05,Tuesday,Afternoon,Fried Plantain,Starters,1,800.0,800.0,Cash,Amaka,10,False,3,10,False,800.0,0.0,Standard,Tue
+1339,2024-03-06,Wednesday,Morning,Chapman,Drinks,3,600.0,1800.0,Transfer,Amaka,12,False,3,10,False,1800.0,0.0,Bronze,Wed
+1340,2024-03-06,Wednesday,Afternoon,Beef Suya,Starters,1,1100.0,1100.0,Cash,Blessing,4,False,3,10,False,1100.0,0.0,Bronze,Wed
+1341,2024-03-06,Wednesday,Evening,Egusi Soup,Mains,2,1500.0,3000.0,Cash,Emeka,1,False,3,10,False,3000.0,0.0,Silver,Wed
+1342,2024-03-06,Wednesday,Evening,Puff Puff,Desserts,2,450.0,900.0,Transfer,Blessing,0,False,3,10,False,900.0,0.0,Standard,Wed
+1343,2024-03-06,Wednesday,Morning,Spring Rolls,Starters,4,900.0,3600.0,Cash,Blessing,15,False,3,10,False,3600.0,0.0,Silver,Wed
+1344,2024-03-06,Wednesday,Evening,Chin Chin,Desserts,1,500.0,500.0,Card,Chukwu,0,False,3,10,False,500.0,0.0,Standard,Wed
+1345,2024-03-06,Wednesday,Afternoon,Zobo,Drinks,2,400.0,800.0,Card,Chukwu,3,False,3,10,False,800.0,0.0,Standard,Wed
+1346,2024-03-07,Thursday,Morning,Beef Suya,Starters,4,1100.0,4400.0,Card,Emeka,9,False,3,10,False,4400.0,0.0,Silver,Thu
+1347,2024-03-07,Thursday,Evening,Fried Plantain,Starters,3,800.0,2400.0,Card,Blessing,2,False,3,10,False,2400.0,0.0,Bronze,Thu
+1348,2024-03-07,Thursday,Evening,Fresh Juice,Drinks,2,700.0,1400.0,Cash,Emeka,0,False,3,10,False,1400.0,0.0,Bronze,Thu
+1349,2024-03-07,Thursday,Evening,Chapman,Drinks,1,600.0,540.0,Cash,Blessing,1,True,3,10,False,600.0,60.0,Standard,Thu
+1350,2024-03-07,Thursday,Morning,Puff Puff,Desserts,2,450.0,900.0,Card,Amaka,8,False,3,10,False,900.0,0.0,Standard,Thu
+1351,2024-03-07,Thursday,Afternoon,Jollof Rice,Mains,1,1800.0,1800.0,Card,Blessing,12,False,3,10,False,1800.0,0.0,Bronze,Thu
+1352,2024-03-07,Thursday,Evening,Fresh Juice,Drinks,3,700.0,2100.0,Cash,Chukwu,4,False,3,10,False,2100.0,0.0,Bronze,Thu
+1353,2024-03-07,Thursday,Evening,Jollof Rice,Mains,2,1800.0,3600.0,Cash,Amaka,0,False,3,10,False,3600.0,0.0,Silver,Thu
+1354,2024-03-07,Thursday,Afternoon,Chin Chin,Desserts,1,500.0,500.0,Cash,Amaka,7,False,3,10,False,500.0,0.0,Standard,Thu
+1355,2024-03-07,Thursday,Afternoon,Pepper Soup,Starters,2,1200.0,2400.0,Card,Amaka,7,False,3,10,False,2400.0,0.0,Bronze,Thu
+1356,2024-03-08,Friday,Evening,Egusi Soup,Mains,1,1500.0,1500.0,Card,Amaka,13,False,3,10,False,1500.0,0.0,Bronze,Fri
+1357,2024-03-08,Friday,Evening,Pepper Soup,Starters,4,1200.0,4320.0,Transfer,Chukwu,15,True,3,10,False,4800.0,480.0,Silver,Fri
+1358,2024-03-08,Friday,Evening,Beef Suya,Starters,1,1100.0,1100.0,Transfer,Amaka,4,False,3,10,False,1100.0,0.0,Bronze,Fri
+1359,2024-03-08,Friday,Morning,Beef Suya,Starters,3,1100.0,3300.0,Card,Blessing,0,False,3,10,False,3300.0,0.0,Silver,Fri
+1360,2024-03-08,Friday,Afternoon,Puff Puff,Desserts,1,450.0,450.0,Transfer,Emeka,15,False,3,10,False,450.0,0.0,Standard,Fri
+1361,2024-03-09,Saturday,Afternoon,Fried Plantain,Starters,1,800.0,800.0,Transfer,Emeka,9,False,3,10,True,800.0,0.0,Standard,Sat
+1362,2024-03-09,Saturday,Evening,Chin Chin,Desserts,2,500.0,900.0,Transfer,Emeka,11,True,3,10,True,1000.0,100.0,Standard,Sat
+1363,2024-03-09,Saturday,Afternoon,Jollof Rice,Mains,5,1800.0,8100.0,Cash,Amaka,14,True,3,10,True,9000.0,900.0,Platinum,Sat
+1364,2024-03-09,Saturday,Evening,Chapman,Drinks,4,600.0,2400.0,Card,Chukwu,14,False,3,10,True,2400.0,0.0,Bronze,Sat
+1365,2024-03-09,Saturday,Morning,Chapman,Drinks,2,600.0,1200.0,Cash,Amaka,0,False,3,10,True,1200.0,0.0,Bronze,Sat
+1366,2024-03-09,Saturday,Morning,Pounded Yam,Mains,4,2200.0,8800.0,Transfer,Emeka,12,False,3,10,True,8800.0,0.0,Platinum,Sat
+1367,2024-03-09,Saturday,Afternoon,Fried Plantain,Starters,5,800.0,3600.0,Cash,Amaka,7,True,3,10,True,4000.0,400.0,Silver,Sat
+1368,2024-03-09,Saturday,Morning,Chapman,Drinks,1,600.0,600.0,Transfer,Amaka,2,False,3,10,True,600.0,0.0,Standard,Sat
+1369,2024-03-09,Saturday,Evening,Fried Plantain,Starters,2,800.0,1600.0,Card,Amaka,14,False,3,10,True,1600.0,0.0,Bronze,Sat
+1370,2024-03-09,Saturday,Evening,Jollof Rice,Mains,2,1800.0,3600.0,Transfer,Chukwu,6,False,3,10,True,3600.0,0.0,Silver,Sat
+1371,2024-03-09,Saturday,Afternoon,Spring Rolls,Starters,1,900.0,900.0,Transfer,Chukwu,5,False,3,10,True,900.0,0.0,Standard,Sat
+1372,2024-03-09,Saturday,Afternoon,Beef Suya,Starters,1,1100.0,1100.0,Transfer,Chukwu,9,False,3,10,True,1100.0,0.0,Bronze,Sat
+1373,2024-03-09,Saturday,Morning,Beef Suya,Starters,2,1100.0,2200.0,Cash,Emeka,2,False,3,10,True,2200.0,0.0,Bronze,Sat
+1374,2024-03-09,Saturday,Afternoon,Chin Chin,Desserts,3,500.0,1350.0,Cash,Amaka,0,True,3,10,True,1500.0,150.0,Bronze,Sat
+1375,2024-03-09,Saturday,Afternoon,Zobo,Drinks,2,400.0,800.0,Card,Emeka,5,False,3,10,True,800.0,0.0,Standard,Sat
+1376,2024-03-10,Sunday,Evening,Pepper Soup,Starters,3,1200.0,3600.0,Transfer,Emeka,0,False,3,10,True,3600.0,0.0,Silver,Sun
+1377,2024-03-10,Sunday,Morning,Fried Plantain,Starters,3,800.0,2400.0,Transfer,Chukwu,13,False,3,10,True,2400.0,0.0,Bronze,Sun
+1378,2024-03-10,Sunday,Afternoon,Pepper Soup,Starters,2,1200.0,2400.0,Card,Blessing,3,False,3,10,True,2400.0,0.0,Bronze,Sun
+1379,2024-03-10,Sunday,Evening,Beef Suya,Starters,2,1100.0,2200.0,Transfer,Amaka,4,False,3,10,True,2200.0,0.0,Bronze,Sun
+1380,2024-03-10,Sunday,Morning,Pepper Soup,Starters,2,1200.0,2160.0,Card,Amaka,7,True,3,10,True,2400.0,240.0,Bronze,Sun
+1381,2024-03-10,Sunday,Afternoon,Chin Chin,Desserts,1,500.0,500.0,Transfer,Amaka,8,False,3,10,True,500.0,0.0,Standard,Sun
+1382,2024-03-10,Sunday,Evening,Pepper Soup,Starters,2,1200.0,2400.0,Card,Blessing,1,False,3,10,True,2400.0,0.0,Bronze,Sun
+1383,2024-03-10,Sunday,Evening,Fresh Juice,Drinks,1,700.0,700.0,Cash,Amaka,9,False,3,10,True,700.0,0.0,Standard,Sun
+1384,2024-03-11,Monday,Morning,Beef Suya,Starters,2,1100.0,2200.0,Transfer,Blessing,5,False,3,11,False,2200.0,0.0,Bronze,Mon
+1385,2024-03-11,Monday,Morning,Egusi Soup,Mains,4,1500.0,6000.0,Cash,Emeka,15,False,3,11,False,6000.0,0.0,Gold,Mon
+1386,2024-03-11,Monday,Afternoon,Chin Chin,Desserts,3,500.0,1500.0,Cash,Chukwu,11,False,3,11,False,1500.0,0.0,Bronze,Mon
+1387,2024-03-11,Monday,Evening,Chin Chin,Desserts,1,500.0,500.0,Transfer,Blessing,6,False,3,11,False,500.0,0.0,Standard,Mon
+1388,2024-03-11,Monday,Afternoon,Spring Rolls,Starters,1,900.0,900.0,Cash,Chukwu,11,False,3,11,False,900.0,0.0,Standard,Mon
+1389,2024-03-12,Tuesday,Evening,Chin Chin,Desserts,1,500.0,500.0,Card,Amaka,4,False,3,11,False,500.0,0.0,Standard,Tue
+1390,2024-03-12,Tuesday,Morning,Fried Plantain,Starters,3,800.0,2400.0,Card,Amaka,0,False,3,11,False,2400.0,0.0,Bronze,Tue
+1391,2024-03-12,Tuesday,Morning,Fresh Juice,Drinks,1,700.0,700.0,Cash,Chukwu,7,False,3,11,False,700.0,0.0,Standard,Tue
+1392,2024-03-12,Tuesday,Evening,Chin Chin,Desserts,1,500.0,500.0,Cash,Amaka,4,False,3,11,False,500.0,0.0,Standard,Tue
+1393,2024-03-13,Wednesday,Evening,Egusi Soup,Mains,1,1500.0,1500.0,Card,Amaka,1,False,3,11,False,1500.0,0.0,Bronze,Wed
+1394,2024-03-13,Wednesday,Evening,Puff Puff,Desserts,1,450.0,450.0,Card,Chukwu,0,False,3,11,False,450.0,0.0,Standard,Wed
+1395,2024-03-13,Wednesday,Evening,Egusi Soup,Mains,1,1500.0,1500.0,Transfer,Amaka,0,False,3,11,False,1500.0,0.0,Bronze,Wed
+1396,2024-03-13,Wednesday,Afternoon,Egusi Soup,Mains,3,1500.0,4500.0,Card,Amaka,11,False,3,11,False,4500.0,0.0,Silver,Wed
+1397,2024-03-14,Thursday,Evening,Fresh Juice,Drinks,1,700.0,700.0,Card,Emeka,11,False,3,11,False,700.0,0.0,Standard,Thu
+1398,2024-03-14,Thursday,Evening,Pepper Soup,Starters,2,1200.0,2160.0,Cash,Chukwu,5,True,3,11,False,2400.0,240.0,Bronze,Thu
+1399,2024-03-14,Thursday,Evening,Fresh Juice,Drinks,4,700.0,2800.0,Transfer,Blessing,0,False,3,11,False,2800.0,0.0,Silver,Thu
+1400,2024-03-14,Thursday,Morning,Beef Suya,Starters,1,1100.0,1100.0,Cash,Amaka,1,False,3,11,False,1100.0,0.0,Bronze,Thu
+1401,2024-03-14,Thursday,Afternoon,Spring Rolls,Starters,3,900.0,2700.0,Cash,Blessing,2,False,3,11,False,2700.0,0.0,Silver,Thu
+1402,2024-03-14,Thursday,Morning,Egusi Soup,Mains,2,1500.0,3000.0,Cash,Blessing,13,False,3,11,False,3000.0,0.0,Silver,Thu
+1403,2024-03-15,Friday,Morning,Zobo,Drinks,2,400.0,800.0,Cash,Chukwu,4,False,3,11,False,800.0,0.0,Standard,Fri
+1404,2024-03-15,Friday,Evening,Pounded Yam,Mains,4,2200.0,7920.0,Cash,Chukwu,1,True,3,11,False,8800.0,880.0,Gold,Fri
+1405,2024-03-15,Friday,Afternoon,Puff Puff,Desserts,1,450.0,450.0,Card,Chukwu,1,False,3,11,False,450.0,0.0,Standard,Fri
+1406,2024-03-15,Friday,Evening,Beef Suya,Starters,1,1100.0,1100.0,Card,Blessing,12,False,3,11,False,1100.0,0.0,Bronze,Fri
+1407,2024-03-16,Saturday,Evening,Chapman,Drinks,5,600.0,3000.0,Cash,Amaka,4,False,3,11,True,3000.0,0.0,Silver,Sat
+1408,2024-03-16,Saturday,Afternoon,Chapman,Drinks,2,600.0,1200.0,Cash,Chukwu,2,False,3,11,True,1200.0,0.0,Bronze,Sat
+1409,2024-03-16,Saturday,Evening,Chapman,Drinks,1,600.0,600.0,Card,Emeka,11,False,3,11,True,600.0,0.0,Standard,Sat
+1410,2024-03-16,Saturday,Morning,Beef Suya,Starters,1,1100.0,1100.0,Cash,Amaka,0,False,3,11,True,1100.0,0.0,Bronze,Sat
+1411,2024-03-16,Saturday,Morning,Chapman,Drinks,4,600.0,2160.0,Card,Emeka,9,True,3,11,True,2400.0,240.0,Bronze,Sat
+1412,2024-03-16,Saturday,Afternoon,Jollof Rice,Mains,1,1800.0,1800.0,Cash,Emeka,10,False,3,11,True,1800.0,0.0,Bronze,Sat
+1413,2024-03-16,Saturday,Morning,Puff Puff,Desserts,3,450.0,1350.0,Card,Chukwu,0,False,3,11,True,1350.0,0.0,Bronze,Sat
+1414,2024-03-16,Saturday,Morning,Egusi Soup,Mains,4,1500.0,6000.0,Transfer,Blessing,13,False,3,11,True,6000.0,0.0,Gold,Sat
+1415,2024-03-17,Sunday,Afternoon,Fried Plantain,Starters,1,800.0,800.0,Card,Amaka,2,False,3,11,True,800.0,0.0,Standard,Sun
+1416,2024-03-17,Sunday,Evening,Fresh Juice,Drinks,2,700.0,1400.0,Cash,Emeka,0,False,3,11,True,1400.0,0.0,Bronze,Sun
+1417,2024-03-17,Sunday,Morning,Chin Chin,Desserts,1,500.0,500.0,Transfer,Blessing,3,False,3,11,True,500.0,0.0,Standard,Sun
+1418,2024-03-17,Sunday,Morning,Jollof Rice,Mains,2,1800.0,3600.0,Transfer,Chukwu,15,False,3,11,True,3600.0,0.0,Silver,Sun
+1419,2024-03-17,Sunday,Evening,Fried Plantain,Starters,1,800.0,800.0,Cash,Chukwu,8,False,3,11,True,800.0,0.0,Standard,Sun
+1420,2024-03-18,Monday,Afternoon,Fresh Juice,Drinks,1,700.0,700.0,Transfer,Chukwu,7,False,3,12,False,700.0,0.0,Standard,Mon
+1421,2024-03-18,Monday,Evening,Beef Suya,Starters,4,1100.0,4400.0,Cash,Blessing,13,False,3,12,False,4400.0,0.0,Silver,Mon
+1422,2024-03-18,Monday,Afternoon,Fried Plantain,Starters,3,800.0,2400.0,Cash,Emeka,0,False,3,12,False,2400.0,0.0,Bronze,Mon
+1423,2024-03-18,Monday,Afternoon,Pounded Yam,Mains,3,2200.0,6600.0,Cash,Amaka,6,False,3,12,False,6600.0,0.0,Gold,Mon
+1424,2024-03-19,Tuesday,Evening,Fried Plantain,Starters,2,800.0,1600.0,Cash,Blessing,6,False,3,12,False,1600.0,0.0,Bronze,Tue
+1425,2024-03-19,Tuesday,Morning,Jollof Rice,Mains,4,1800.0,7200.0,Card,Amaka,0,False,3,12,False,7200.0,0.0,Gold,Tue
+1426,2024-03-19,Tuesday,Evening,Zobo,Drinks,3,400.0,1200.0,Cash,Emeka,4,False,3,12,False,1200.0,0.0,Bronze,Tue
+1427,2024-03-19,Tuesday,Afternoon,Fried Plantain,Starters,2,800.0,1600.0,Cash,Blessing,0,False,3,12,False,1600.0,0.0,Bronze,Tue
+1428,2024-03-19,Tuesday,Evening,Zobo,Drinks,1,400.0,400.0,Card,Chukwu,10,False,3,12,False,400.0,0.0,Standard,Tue
+1429,2024-03-20,Wednesday,Evening,Jollof Rice,Mains,1,1800.0,1800.0,Cash,Amaka,6,False,3,12,False,1800.0,0.0,Bronze,Wed
+1430,2024-03-20,Wednesday,Evening,Spring Rolls,Starters,2,900.0,1800.0,Transfer,Blessing,15,False,3,12,False,1800.0,0.0,Bronze,Wed
+1431,2024-03-20,Wednesday,Evening,Spring Rolls,Starters,2,900.0,1800.0,Cash,Emeka,0,False,3,12,False,1800.0,0.0,Bronze,Wed
+1432,2024-03-21,Thursday,Afternoon,Fresh Juice,Drinks,4,700.0,2520.0,Card,Chukwu,0,True,3,12,False,2800.0,280.0,Silver,Thu
+1433,2024-03-21,Thursday,Evening,Jollof Rice,Mains,2,1800.0,3600.0,Transfer,Chukwu,12,False,3,12,False,3600.0,0.0,Silver,Thu
+1434,2024-03-21,Thursday,Evening,Pounded Yam,Mains,2,2200.0,4400.0,Cash,Blessing,15,False,3,12,False,4400.0,0.0,Silver,Thu
+1435,2024-03-22,Friday,Evening,Beef Suya,Starters,2,1100.0,2200.0,Cash,Amaka,3,False,3,12,False,2200.0,0.0,Bronze,Fri
+1436,2024-03-22,Friday,Morning,Fresh Juice,Drinks,3,700.0,2100.0,Card,Blessing,1,False,3,12,False,2100.0,0.0,Bronze,Fri
+1437,2024-03-22,Friday,Evening,Jollof Rice,Mains,2,1800.0,3240.0,Cash,Emeka,7,True,3,12,False,3600.0,360.0,Silver,Fri
+1438,2024-03-22,Friday,Morning,Puff Puff,Desserts,4,450.0,1800.0,Card,Amaka,14,False,3,12,False,1800.0,0.0,Bronze,Fri
+1439,2024-03-22,Friday,Afternoon,Chin Chin,Desserts,2,500.0,1000.0,Transfer,Blessing,12,False,3,12,False,1000.0,0.0,Bronze,Fri
+1440,2024-03-22,Friday,Afternoon,Chapman,Drinks,3,600.0,1800.0,Transfer,Amaka,9,False,3,12,False,1800.0,0.0,Bronze,Fri
+1441,2024-03-23,Saturday,Afternoon,Egusi Soup,Mains,1,1500.0,1500.0,Card,Blessing,13,False,3,12,True,1500.0,0.0,Bronze,Sat
+1442,2024-03-23,Saturday,Afternoon,Fried Plantain,Starters,1,800.0,720.0,Transfer,Blessing,2,True,3,12,True,800.0,80.0,Standard,Sat
+1443,2024-03-23,Saturday,Morning,Chapman,Drinks,2,600.0,1200.0,Card,Blessing,0,False,3,12,True,1200.0,0.0,Bronze,Sat
+1444,2024-03-23,Saturday,Evening,Pounded Yam,Mains,1,2200.0,2200.0,Cash,Emeka,10,False,3,12,True,2200.0,0.0,Bronze,Sat
+1445,2024-03-23,Saturday,Evening,Egusi Soup,Mains,1,1500.0,1500.0,Card,Blessing,11,False,3,12,True,1500.0,0.0,Bronze,Sat
+1446,2024-03-24,Sunday,Evening,Fried Plantain,Starters,2,800.0,1600.0,Cash,Blessing,1,False,3,12,True,1600.0,0.0,Bronze,Sun
+1447,2024-03-24,Sunday,Morning,Beef Suya,Starters,1,1100.0,1100.0,Cash,Emeka,10,False,3,12,True,1100.0,0.0,Bronze,Sun
+1448,2024-03-25,Monday,Evening,Zobo,Drinks,2,400.0,800.0,Cash,Blessing,13,False,3,13,False,800.0,0.0,Standard,Mon
+1449,2024-03-25,Monday,Evening,Beef Suya,Starters,1,1100.0,1100.0,Card,Amaka,15,False,3,13,False,1100.0,0.0,Bronze,Mon
+1450,2024-03-25,Monday,Afternoon,Puff Puff,Desserts,4,450.0,1800.0,Card,Chukwu,13,False,3,13,False,1800.0,0.0,Bronze,Mon
+1451,2024-03-25,Monday,Afternoon,Chapman,Drinks,1,600.0,600.0,Cash,Amaka,14,False,3,13,False,600.0,0.0,Standard,Mon
+1452,2024-03-26,Tuesday,Morning,Puff Puff,Desserts,2,450.0,900.0,Cash,Chukwu,0,False,3,13,False,900.0,0.0,Standard,Tue
+1453,2024-03-26,Tuesday,Evening,Zobo,Drinks,2,400.0,800.0,Cash,Chukwu,3,False,3,13,False,800.0,0.0,Standard,Tue
+1454,2024-03-27,Wednesday,Evening,Jollof Rice,Mains,2,1800.0,3600.0,Card,Chukwu,4,False,3,13,False,3600.0,0.0,Silver,Wed
+1455,2024-03-27,Wednesday,Evening,Puff Puff,Desserts,2,450.0,810.0,Card,Blessing,8,True,3,13,False,900.0,90.0,Standard,Wed
+1456,2024-03-27,Wednesday,Morning,Spring Rolls,Starters,3,900.0,2700.0,Cash,Amaka,6,False,3,13,False,2700.0,0.0,Silver,Wed
+1457,2024-03-27,Wednesday,Evening,Egusi Soup,Mains,3,1500.0,4500.0,Transfer,Emeka,8,False,3,13,False,4500.0,0.0,Silver,Wed
+1458,2024-03-27,Wednesday,Evening,Fresh Juice,Drinks,1,700.0,700.0,Transfer,Chukwu,0,False,3,13,False,700.0,0.0,Standard,Wed
+1459,2024-03-27,Wednesday,Morning,Jollof Rice,Mains,2,1800.0,3600.0,Cash,Emeka,13,False,3,13,False,3600.0,0.0,Silver,Wed
+1460,2024-03-28,Thursday,Afternoon,Puff Puff,Desserts,1,450.0,450.0,Card,Emeka,1,False,3,13,False,450.0,0.0,Standard,Thu
+1461,2024-03-28,Thursday,Evening,Fried Plantain,Starters,1,800.0,800.0,Card,Blessing,0,False,3,13,False,800.0,0.0,Standard,Thu
+1462,2024-03-28,Thursday,Evening,Chapman,Drinks,1,600.0,600.0,Card,Emeka,7,False,3,13,False,600.0,0.0,Standard,Thu
+1463,2024-03-28,Thursday,Evening,Fried Plantain,Starters,1,800.0,720.0,Cash,Amaka,9,True,3,13,False,800.0,80.0,Standard,Thu
+1464,2024-03-29,Friday,Evening,Egusi Soup,Mains,2,1500.0,3000.0,Cash,Emeka,7,False,3,13,False,3000.0,0.0,Silver,Fri
+1465,2024-03-29,Friday,Afternoon,Pounded Yam,Mains,1,2200.0,2200.0,Cash,Blessing,2,False,3,13,False,2200.0,0.0,Bronze,Fri
+1466,2024-03-29,Friday,Evening,Jollof Rice,Mains,2,1800.0,3600.0,Card,Emeka,2,False,3,13,False,3600.0,0.0,Silver,Fri
+1467,2024-03-30,Saturday,Evening,Chapman,Drinks,1,600.0,600.0,Cash,Amaka,0,False,3,13,True,600.0,0.0,Standard,Sat
+1468,2024-03-31,Sunday,Afternoon,Chin Chin,Desserts,2,500.0,1000.0,Cash,Emeka,1,False,3,13,True,1000.0,0.0,Bronze,Sun
+1469,2024-03-31,Sunday,Afternoon,Beef Suya,Starters,1,1100.0,990.0,Card,Chukwu,0,True,3,13,True,1100.0,110.0,Standard,Sun
+1470,2024-03-31,Sunday,Evening,Jollof Rice,Mains,2,1800.0,3600.0,Transfer,Chukwu,6,False,3,13,True,3600.0,0.0,Silver,Sun
+1471,2024-03-31,Sunday,Evening,Fresh Juice,Drinks,5,700.0,3150.0,Card,Amaka,4,True,3,13,True,3500.0,350.0,Silver,Sun
+1472,2024-04-01,Monday,Afternoon,Fried Plantain,Starters,2,800.0,1600.0,Cash,Emeka,0,False,4,14,False,1600.0,0.0,Bronze,Mon
+1473,2024-04-01,Monday,Evening,Jollof Rice,Mains,2,1800.0,3600.0,Transfer,Chukwu,13,False,4,14,False,3600.0,0.0,Silver,Mon
+1474,2024-04-01,Monday,Evening,Fresh Juice,Drinks,1,700.0,700.0,Cash,Blessing,0,False,4,14,False,700.0,0.0,Standard,Mon
+1475,2024-04-02,Tuesday,Evening,Spring Rolls,Starters,4,900.0,3240.0,Transfer,Emeka,5,True,4,14,False,3600.0,360.0,Silver,Tue
+1476,2024-04-02,Tuesday,Afternoon,Pepper Soup,Starters,1,1200.0,1200.0,Cash,Amaka,14,False,4,14,False,1200.0,0.0,Bronze,Tue
+1477,2024-04-02,Tuesday,Afternoon,Fried Plantain,Starters,3,800.0,2400.0,Cash,Blessing,6,False,4,14,False,2400.0,0.0,Bronze,Tue
+1478,2024-04-02,Tuesday,Afternoon,Pepper Soup,Starters,2,1200.0,2160.0,Transfer,Amaka,8,True,4,14,False,2400.0,240.0,Bronze,Tue
+1479,2024-04-02,Tuesday,Afternoon,Zobo,Drinks,3,400.0,1200.0,Cash,Chukwu,0,False,4,14,False,1200.0,0.0,Bronze,Tue
+1480,2024-04-02,Tuesday,Evening,Beef Suya,Starters,1,1100.0,1100.0,Cash,Amaka,0,False,4,14,False,1100.0,0.0,Bronze,Tue
+1481,2024-04-02,Tuesday,Evening,Pounded Yam,Mains,1,2200.0,2200.0,Cash,Blessing,0,False,4,14,False,2200.0,0.0,Bronze,Tue
+1482,2024-04-02,Tuesday,Evening,Fried Plantain,Starters,2,800.0,1600.0,Cash,Chukwu,14,False,4,14,False,1600.0,0.0,Bronze,Tue
+1483,2024-04-03,Wednesday,Afternoon,Beef Suya,Starters,1,1100.0,1100.0,Cash,Blessing,10,False,4,14,False,1100.0,0.0,Bronze,Wed
+1484,2024-04-03,Wednesday,Afternoon,Puff Puff,Desserts,1,450.0,450.0,Cash,Amaka,3,False,4,14,False,450.0,0.0,Standard,Wed
+1485,2024-04-03,Wednesday,Afternoon,Jollof Rice,Mains,4,1800.0,7200.0,Card,Blessing,9,False,4,14,False,7200.0,0.0,Gold,Wed
+1486,2024-04-03,Wednesday,Afternoon,Puff Puff,Desserts,1,450.0,450.0,Card,Blessing,6,False,4,14,False,450.0,0.0,Standard,Wed
+1487,2024-04-03,Wednesday,Evening,Zobo,Drinks,1,400.0,400.0,Cash,Blessing,9,False,4,14,False,400.0,0.0,Standard,Wed
+1488,2024-04-03,Wednesday,Evening,Fresh Juice,Drinks,1,700.0,700.0,Cash,Blessing,12,False,4,14,False,700.0,0.0,Standard,Wed
+1489,2024-04-03,Wednesday,Afternoon,Chapman,Drinks,1,600.0,600.0,Cash,Emeka,15,False,4,14,False,600.0,0.0,Standard,Wed
+1490,2024-04-04,Thursday,Evening,Beef Suya,Starters,1,1100.0,1100.0,Card,Chukwu,6,False,4,14,False,1100.0,0.0,Bronze,Thu
+1491,2024-04-04,Thursday,Afternoon,Chapman,Drinks,5,600.0,3000.0,Cash,Chukwu,10,False,4,14,False,3000.0,0.0,Silver,Thu
+1492,2024-04-04,Thursday,Evening,Fried Plantain,Starters,1,800.0,800.0,Card,Amaka,0,False,4,14,False,800.0,0.0,Standard,Thu
+1493,2024-04-04,Thursday,Afternoon,Chin Chin,Desserts,1,500.0,500.0,Card,Blessing,13,False,4,14,False,500.0,0.0,Standard,Thu
+1494,2024-04-04,Thursday,Evening,Puff Puff,Desserts,3,450.0,1350.0,Card,Chukwu,1,False,4,14,False,1350.0,0.0,Bronze,Thu
+1495,2024-04-04,Thursday,Morning,Jollof Rice,Mains,1,1800.0,1800.0,Transfer,Blessing,8,False,4,14,False,1800.0,0.0,Bronze,Thu
+1496,2024-04-05,Friday,Morning,Fried Plantain,Starters,2,800.0,1600.0,Card,Amaka,0,False,4,14,False,1600.0,0.0,Bronze,Fri
+1497,2024-04-05,Friday,Evening,Pounded Yam,Mains,2,2200.0,4400.0,Transfer,Chukwu,14,False,4,14,False,4400.0,0.0,Silver,Fri
+1498,2024-04-05,Friday,Morning,Fried Plantain,Starters,1,800.0,800.0,Cash,Emeka,15,False,4,14,False,800.0,0.0,Standard,Fri
+1499,2024-04-05,Friday,Morning,Puff Puff,Desserts,3,450.0,1350.0,Card,Chukwu,4,False,4,14,False,1350.0,0.0,Bronze,Fri
+1500,2024-04-05,Friday,Evening,Jollof Rice,Mains,3,1800.0,5400.0,Cash,Emeka,0,False,4,14,False,5400.0,0.0,Gold,Fri
+1501,2024-04-05,Friday,Afternoon,Chin Chin,Desserts,2,500.0,1000.0,Cash,Amaka,10,False,4,14,False,1000.0,0.0,Bronze,Fri
+1502,2024-04-05,Friday,Evening,Fried Plantain,Starters,2,800.0,1600.0,Cash,Chukwu,5,False,4,14,False,1600.0,0.0,Bronze,Fri
+1503,2024-04-05,Friday,Morning,Fresh Juice,Drinks,1,700.0,700.0,Cash,Emeka,8,False,4,14,False,700.0,0.0,Standard,Fri
+1504,2024-04-06,Saturday,Afternoon,Egusi Soup,Mains,2,1500.0,3000.0,Cash,Chukwu,3,False,4,14,True,3000.0,0.0,Silver,Sat
+1505,2024-04-06,Saturday,Evening,Fried Plantain,Starters,2,800.0,1600.0,Cash,Chukwu,5,False,4,14,True,1600.0,0.0,Bronze,Sat
+1506,2024-04-06,Saturday,Evening,Pepper Soup,Starters,1,1200.0,1200.0,Cash,Amaka,0,False,4,14,True,1200.0,0.0,Bronze,Sat
+1507,2024-04-06,Saturday,Afternoon,Chin Chin,Desserts,1,500.0,500.0,Card,Emeka,8,False,4,14,True,500.0,0.0,Standard,Sat
+1508,2024-04-06,Saturday,Afternoon,Beef Suya,Starters,1,1100.0,1100.0,Transfer,Blessing,8,False,4,14,True,1100.0,0.0,Bronze,Sat
+1509,2024-04-06,Saturday,Morning,Pepper Soup,Starters,1,1200.0,1200.0,Cash,Emeka,8,False,4,14,True,1200.0,0.0,Bronze,Sat
+1510,2024-04-06,Saturday,Morning,Chin Chin,Desserts,4,500.0,2000.0,Cash,Chukwu,10,False,4,14,True,2000.0,0.0,Bronze,Sat
+1511,2024-04-06,Saturday,Evening,Fresh Juice,Drinks,2,700.0,1260.0,Transfer,Chukwu,1,True,4,14,True,1400.0,140.0,Bronze,Sat
+1512,2024-04-06,Saturday,Morning,Beef Suya,Starters,4,1100.0,4400.0,Card,Blessing,4,False,4,14,True,4400.0,0.0,Silver,Sat
+1513,2024-04-06,Saturday,Evening,Pepper Soup,Starters,1,1200.0,1200.0,Cash,Amaka,3,False,4,14,True,1200.0,0.0,Bronze,Sat
+1514,2024-04-06,Saturday,Evening,Chin Chin,Desserts,4,500.0,2000.0,Cash,Amaka,6,False,4,14,True,2000.0,0.0,Bronze,Sat
+1515,2024-04-06,Saturday,Afternoon,Puff Puff,Desserts,1,450.0,450.0,Cash,Amaka,10,False,4,14,True,450.0,0.0,Standard,Sat
+1516,2024-04-06,Saturday,Morning,Jollof Rice,Mains,1,1800.0,1800.0,Cash,Blessing,12,False,4,14,True,1800.0,0.0,Bronze,Sat
+1517,2024-04-06,Saturday,Evening,Fresh Juice,Drinks,2,700.0,1400.0,Cash,Amaka,8,False,4,14,True,1400.0,0.0,Bronze,Sat
+1518,2024-04-07,Sunday,Morning,Spring Rolls,Starters,1,900.0,900.0,Cash,Blessing,13,False,4,14,True,900.0,0.0,Standard,Sun
+1519,2024-04-07,Sunday,Evening,Fried Plantain,Starters,2,800.0,1440.0,Cash,Chukwu,12,True,4,14,True,1600.0,160.0,Bronze,Sun
+1520,2024-04-07,Sunday,Evening,Puff Puff,Desserts,3,450.0,1350.0,Card,Amaka,10,False,4,14,True,1350.0,0.0,Bronze,Sun
