@@ -1,3 +1,6 @@
+![Python Internship in a Book Banner](banner.png)
+
+
 # python-internship-starter
 # Python InternshipInABook™
 ## Learn. Practice. Launch.
