@@ -4,7 +4,6 @@
 
 An 8-week hands-on internship simulation designed to help learners build practical Python programming skills through guided notebooks, datasets, and real-world exercises.
 
----
 
 ## What You Will Learn
 
@@ -19,7 +18,6 @@ This internship-style experience covers:
 - Data visualization
 - Practical debugging and coding workflows
 
----
 
 ## Repository Structure
 
@@ -27,9 +25,7 @@ This internship-style experience covers:
 datasets/
 notebooks/
 README.md
-```
 
----
 
 ## Starter Notebooks
 
@@ -44,7 +40,6 @@ README.md
 | 07 | Pandas Analysis |
 | 08 | Visualization |
 
----
 
 ## Datasets Included
 
@@ -55,7 +50,6 @@ This repository includes beginner-friendly datasets for:
 - menu exploration,
 - and data cleaning exercises.
 
----
 
 ## Recommended Tools
 
@@ -66,7 +60,6 @@ Learners can use:
 - VS Code
 - Anaconda
 
----
 
 ## Who This Is For
 
@@ -77,7 +70,6 @@ Learners can use:
 - internship preparation learners,
 - and self-paced tech learners.
 
----
 
 ## Getting Started
 
@@ -87,13 +79,10 @@ Learners can use:
 4. Practice consistently.
 5. Build your portfolio.
 
----
 
 ## Author
 
 Sakinat Folorunso
-
----
 
 ## License
 
@@ -101,6 +90,5 @@ This repository is provided for educational purposes only.
 
 Commercial redistribution of the materials without permission is prohibited.
 
----
 
 # Learn. Practice. Launch.
