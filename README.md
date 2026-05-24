@@ -1,8 +1,7 @@
 ![Python Internship in a Book Banner](banner.png)
 
 
-# python-internship-starter
-# Python InternshipInABook™
+### Python InternshipInABook™
 ## Learn. Practice. Launch.
 
 An 8-week hands-on internship simulation designed to help learners build practical Python programming skills through guided notebooks, datasets, and real-world exercises.
