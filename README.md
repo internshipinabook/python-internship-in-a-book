@@ -88,6 +88,13 @@ Learners can use:
 
 Sakinat Folorunso
 
+📘 This repository accompanies
+
+THE DATA SCIENCE INTERNSHIP
+
+Get the complete book:
+[https://selar.com/your-link](https://selar.com/al990ay7ux)
+
 ## License
 
 This repository is provided for educational purposes only.
