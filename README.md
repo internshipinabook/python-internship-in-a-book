@@ -7,7 +7,7 @@
 ## Learn. Practice. Launch.
 
 
-The Data Science Internship Book 0 of 9 in the InternshipInABook™ Series
+The Python Book 0 of 9 in the InternshipInABook™ Series
 
 This repository contains the practical exercises from the book.
 
@@ -22,7 +22,7 @@ Capstone projects
 👉 Get the complete book: [https://selar.com/al990ay7ux](https://selar.com/11j3337v1x)
 
 🚀 Start Here
-Welcome to The Data Science Internship.
+Welcome to The Python Internship.
 
 If you are new to the InternshipInABook™ Series:
 
@@ -31,7 +31,7 @@ Complete Week 1.
 Follow the weekly internship schedule.
 Build your portfolio.
 Complete the capstone project.
-🔗 Repository: https://github.com/internshipinabook/data-science-internshipinabook
+🔗 Repository: https://github.com/internshipinabook/python-internship-in-a-book
 
 Run every cell top to bottom. Each cell prints ✅ if everything is working or ❌ with a fix instruction. Complete every fix before moving to Week 1.
 
