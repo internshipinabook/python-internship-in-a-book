@@ -6,6 +6,38 @@
 
 ## Learn. Practice. Launch.
 
+
+The Data Science Internship Book 0 of 9 in the InternshipInABook™ Series
+
+This repository contains the practical exercises from the book.
+
+📖 Complete internship experience:
+
+Workplace scenarios
+Mentor guidance
+Reflection exercises
+Portfolio
+checkpoints
+Capstone projects
+👉 Get the complete book: https://selar.com/al990ay7ux
+
+🚀 Start Here
+Welcome to The Data Science Internship.
+
+If you are new to the InternshipInABook™ Series:
+
+Run this setup notebook.
+Complete Week 1.
+Follow the weekly internship schedule.
+Build your portfolio.
+Complete the capstone project.
+🔗 Repository: https://github.com/internshipinabook/data-science-internshipinabook
+
+Run every cell top to bottom. Each cell prints ✅ if everything is working or ❌ with a fix instruction. Complete every fix before moving to Week 1.
+
+
+
+
 An 8-week hands-on internship simulation designed to help learners build practical Python programming skills through guided notebooks, datasets, and real-world exercises.
 
 
@@ -88,12 +120,7 @@ Learners can use:
 
 Sakinat Folorunso
 
-📘 This repository accompanies
 
-THE DATA SCIENCE INTERNSHIP
-
-Get the complete book:
-[https://selar.com/your-link](https://selar.com/al990ay7ux)
 
 ## License
 
