@@ -19,7 +19,7 @@ Reflection exercises
 Portfolio
 checkpoints
 Capstone projects
-👉 Get the complete book: https://selar.com/al990ay7ux
+👉 Get the complete book: [https://selar.com/al990ay7ux](https://selar.com/11j3337v1x)
 
 🚀 Start Here
 Welcome to The Data Science Internship.
